@@ -48,7 +48,7 @@ function add(e) {
   newLabel.value = '';
 }
 
-function remove(stat) {
+function removeStat(stat) {
   if (stats.length > 3) {
     stats.splice(stats.indexOf(stat), 1);
   } else {
@@ -91,7 +91,7 @@ const message = ref('PaperLibrary');
     <label>{{ stat.label }}</label>
     <input type="range" v-model="stat.value" min="0" max="100" />
     <span>{{ stat.value }}</span>
-    <button @click="remove(stat)" class="remove">X</button>
+    <button @click="removeStat(stat)" class="remove">X</button>
   </div>
 
   <form id="add">
