@@ -1,8 +1,33 @@
 <script setup>
+import { ref } from 'vue'
+import TreeItem from './TreeItem.vue'
+
+const treeData = ref({
+  name: 'My Tree',
+  children: [
+    { name: 'hello' },
+    { name: 'world' },
+    {
+      name: 'child folder',
+      children: [
+        {
+          name: 'child folder',
+          children: [{ name: 'hello' }, { name: 'world' }]
+        },
+        { name: 'hello' },
+        { name: 'world' },
+        {
+          name: 'child folder',
+          children: [{ name: 'hello' }, { name: 'world' }]
+        }
+      ]
+    }
+  ]
+})
 // This starter template is using Vue 3 <script setup> SFCs
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
 import HelloWorld from './components/HelloWorld.vue';
-import { ref } from 'vue';
+
 
 // A "ref" is a reactive data source that stores a value.
 // Technically, we don't need to wrap the string with ref()
@@ -13,6 +38,9 @@ const message = ref('PaperLibrary');
 </script>
 
 <template>
+   <ul>
+    <TreeItem class="item" :model="treeData"></TreeItem>
+  </ul>
   <div>
     <h1 class="paperlibrary">J-DU</h1>
     <h1>{{ message }}</h1>
