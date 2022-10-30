@@ -4528,14 +4528,14 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [],
+      "Supermovement": ["Launch"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
     }
   },
   "Reach": {
-    "MovementNamespace": "",
+    "MovementNamespace": "Reach",
     "MovementPurpose": ["Advance"],
     "Supermovement": [],
     "Submovement": [],
