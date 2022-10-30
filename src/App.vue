@@ -1,6 +1,7 @@
 <script setup>
-import { ref } from 'vue'
-import TreeItem from './TreeItem.vue'
+import { ref } from 'vue';
+import TreeItem from './TreeItem.vue';
+import HelloWorld from './components/HelloWorld.vue';
 
 const treeData = ref({
   name: 'My Tree',
@@ -12,33 +13,24 @@ const treeData = ref({
       children: [
         {
           name: 'child folder',
-          children: [{ name: 'hello' }, { name: 'world' }]
+          children: [{ name: 'hello' }, { name: 'world' }],
         },
         { name: 'hello' },
         { name: 'world' },
         {
           name: 'child folder',
-          children: [{ name: 'hello' }, { name: 'world' }]
-        }
-      ]
-    }
-  ]
-})
-// This starter template is using Vue 3 <script setup> SFCs
-// Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
-import HelloWorld from './components/HelloWorld.vue';
+          children: [{ name: 'hello' }, { name: 'world' }],
+        },
+      ],
+    },
+  ],
+});
 
-
-// A "ref" is a reactive data source that stores a value.
-// Technically, we don't need to wrap the string with ref()
-// in order to display it, but we will see in the next
-// example why it is needed if we ever intend to change
-// the value.
 const message = ref('PaperLibrary');
 </script>
 
 <template>
-   <ul>
+  <ul>
     <TreeItem class="item" :model="treeData"></TreeItem>
   </ul>
   <div>
