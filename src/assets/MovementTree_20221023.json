@@ -151,9 +151,7 @@
       "MovementRank": {
         "1": ""
       },
-      "MovementPurpose": [
-        "Timing"
-      ],
+      "MovementPurpose": ["Timing"],
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
@@ -164,10 +162,7 @@
       "MovementRank": {
         "1": ""
       },
-      "MovementPurpose": [
-        "Balance",
-        "MinimizeMomentum"
-      ],
+      "MovementPurpose": ["Balance", "MinimizeMomentum"],
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
@@ -186,10 +181,7 @@
           "Speed": {},
           "Rhythm": {}
         },
-        "Supermovement": [
-          "Stemming",
-          "ArmArch"
-        ],
+        "Supermovement": ["Stemming", "ArmArch"],
         "Submovement": [],
         "Antemovement": [],
         "Postmovement": []
@@ -221,12 +213,7 @@
           "Speed": {},
           "Rhythm": {}
         },
-        "Supermovement": [
-          "Stemming",
-          "LegArch",
-          "LegExpansion",
-          "LegProp"
-        ],
+        "Supermovement": ["Stemming", "LegArch", "LegExpansion", "LegProp"],
         "Submovement": [],
         "Antemovement": [],
         "Postmovement": []
@@ -257,13 +244,8 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "Pinch",
-        "Grip"
-      ],
-      "Submovement": [
-        "MuscleActivation"
-      ],
+      "Supermovement": ["Pinch", "Grip"],
+      "Submovement": ["MuscleActivation"],
       "Antemovement": [],
       "Postmovement": []
     },
@@ -352,12 +334,8 @@
           "Rhythm": {}
         },
         "Supermovement": [],
-        "Submovement": [
-          "BodyTwist"
-        ],
-        "AnteMovement": [
-          "LateralDyno.Catch"
-        ],
+        "Submovement": ["BodyTwist"],
+        "AnteMovement": ["LateralDyno.Catch"],
         "Postmovement": []
       }
     },
@@ -423,10 +401,7 @@
           "Rhythm": {}
         },
         "Supermovement": [],
-        "Submovement": [
-          "LegFlexion",
-          "LegCrunch"
-        ],
+        "Submovement": ["LegFlexion", "LegCrunch"],
         "Antemovement": [],
         "Postmovement": []
       },
@@ -448,9 +423,7 @@
     },
     "HeadAbsorb": {
       "MovementNamespace": "Absorb\\HeadAbsorb",
-      "MovementPurpose": [
-        "Absorb"
-      ],
+      "MovementPurpose": ["Absorb"],
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
@@ -485,11 +458,7 @@
       "": ""
     },
     "MovementPurpose": {},
-    "Supermovement": [
-      "Balance",
-      "OptimizeFriction",
-      "Posture"
-    ],
+    "Supermovement": ["Balance", "OptimizeFriction", "Posture"],
     "Submovement": [],
     "Antemovement": [],
     "Postmovement": [],
@@ -503,9 +472,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "LegProp"
-      ],
+      "Supermovement": ["LegProp"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -520,11 +487,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "StraightArm",
-        "ArmProp",
-        "ArmArch"
-      ],
+      "Supermovement": ["StraightArm", "ArmProp", "ArmArch"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -539,10 +502,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "BodyStack",
-        "BodyArch"
-      ],
+      "Supermovement": ["BodyStack", "BodyArch"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -557,9 +517,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "SpineStack"
-      ],
+      "Supermovement": ["SpineStack"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -611,15 +569,11 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "PostMovement": [
-        "HandFootSwap"
-      ]
+      "PostMovement": ["HandFootSwap"]
     },
     "LegArch": {
       "MovementNamespace": "",
-      "MovementPurpose": [
-        "ArmRest"
-      ],
+      "MovementPurpose": ["ArmRest"],
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
@@ -636,12 +590,8 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "BodyRest"
-      ],
-      "AnteMovement": [
-        "FallOver"
-      ],
+      "Submovement": ["BodyRest"],
+      "AnteMovement": ["FallOver"],
       "Postmovement": [],
       "BodyAnteriorArch": {
         "MovementNamespace": "",
@@ -671,9 +621,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "ArmVerticalReach"
-      ],
+      "Supermovement": ["ArmVerticalReach"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -756,12 +704,8 @@
       "BodyStack",
       "SpineStack"
     ],
-    "AnteMovement": [
-      "Absorb"
-    ],
-    "PostMovement": [
-      "Reach"
-    ]
+    "AnteMovement": ["Absorb"],
+    "PostMovement": ["Reach"]
   },
   "Brachiation": {
     "MovementNamespace": "",
@@ -842,11 +786,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "BodyRedirect",
-        "LegSwing",
-        "LegAbsorb"
-      ],
+      "Submovement": ["BodyRedirect", "LegSwing", "LegAbsorb"],
       "Antemovement": [],
       "Postmovement": []
     },
@@ -861,12 +801,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "BodyRotation",
-        "ArmRotation",
-        "ArmSwing",
-        "LegSwing"
-      ],
+      "Submovement": ["BodyRotation", "ArmRotation", "ArmSwing", "LegSwing"],
       "180Brachiation_Dynamic": {
         "MovementNamespace": "Brachiation\\180Brachiation\\180StaticBrachiation",
         "MovementRank": {
@@ -901,21 +836,11 @@
   },
   "BrushMovement": {
     "MovementNamespace": "ToolMovement\\BrushMovement",
-    "MovementPurpose": [
-      "To remove chalk"
-    ],
-    "Supermovement": [
-      "Rest"
-    ],
-    "Submovement": [
-      "Pinch",
-      "CrimpPinch",
-      "LookAt"
-    ],
+    "MovementPurpose": ["To remove chalk"],
+    "Supermovement": ["Rest"],
+    "Submovement": ["Pinch", "CrimpPinch", "LookAt"],
     "Antemovement": [],
-    "PostMovement": [
-      "ChalkBlow"
-    ],
+    "PostMovement": ["ChalkBlow"],
     "Brush_Dynamic": {
       "MovementNamespace": "ToolMovement\\BrushMovement",
       "MovementRank": {
@@ -978,10 +903,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "LegEccentricExtension",
-        "LegConcentricExtension"
-      ],
+      "Submovement": ["LegEccentricExtension", "LegConcentricExtension"],
       "Antemovement": [],
       "Postmovement": []
     },
@@ -996,9 +918,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "FingerEccenticExtension"
-      ],
+      "Submovement": ["FingerEccenticExtension"],
       "Antemovement": [],
       "Postmovement": []
     }
@@ -1126,9 +1046,7 @@
       },
       "Supermovement": [],
       "Submovement": [],
-      "AnteMovement": [
-        "DynamicMovement"
-      ],
+      "AnteMovement": ["DynamicMovement"],
       "Postmovement": []
     },
     "LegCompressionCatch": {
@@ -1143,9 +1061,7 @@
       },
       "Supermovement": [],
       "Submovement": [],
-      "AnteMovement": [
-        "DynamicMovement"
-      ],
+      "AnteMovement": ["DynamicMovement"],
       "Postmovement": []
     },
     "HandCatch": {
@@ -1161,9 +1077,7 @@
         },
         "Supermovement": [],
         "Submovement": [],
-        "AnteMovement": [
-          "DynamicMovement"
-        ],
+        "AnteMovement": ["DynamicMovement"],
         "Postmovement": []
       }
     },
@@ -1178,10 +1092,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "HeelHook",
-        "ToeHook"
-      ],
+      "Submovement": ["HeelHook", "ToeHook"],
       "AnteMovement": [
         "DynamicMovement",
         "HangingFootTransfer",
@@ -1201,13 +1112,8 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "ToeHook"
-      ],
-      "AnteMovement": [
-        "DynamicMovement",
-        "LegSwing"
-      ],
+      "Submovement": ["ToeHook"],
+      "AnteMovement": ["DynamicMovement", "LegSwing"],
       "Postmovement": []
     }
   },
@@ -1239,10 +1145,7 @@
       },
       "Supermovement": [],
       "Submovement": [],
-      "AnteMovement": [
-        "Brush",
-        "ChalkUp"
-      ],
+      "AnteMovement": ["Brush", "ChalkUp"],
       "Postmovement": []
     },
     "ChalkTicMark": {
@@ -1324,9 +1227,7 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": [
-        "LegWhip"
-      ]
+      "Postmovement": ["LegWhip"]
     },
     {
       "MovementName": "BodyCircumduction",
@@ -1341,18 +1242,10 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "Brachiation",
-        "BodyAbsorb"
-      ],
-      "Submovement": [
-        "ArmFlexion",
-        "ArmExtension"
-      ],
+      "Supermovement": ["Brachiation", "BodyAbsorb"],
+      "Submovement": ["ArmFlexion", "ArmExtension"],
       "Antemovement": [],
-      "Postmovement": [
-        "BodyWhip"
-      ]
+      "Postmovement": ["BodyWhip"]
     }
   ],
   "Clamp": {},
@@ -1400,13 +1293,9 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "ArmPull"
-      ],
+      "Submovement": ["ArmPull"],
       "Antemovement": [],
-      "PostMovement": [
-        "LegMovement"
-      ]
+      "PostMovement": ["LegMovement"]
     },
     "LegLegCompression": {
       "MovementNamespace": "",
@@ -1788,9 +1677,7 @@
     },
     "MovementPurpose": {},
     "Supermovement": [],
-    "Submovement": [
-      "MuscleRelax"
-    ],
+    "Submovement": ["MuscleRelax"],
     "Antemovement": [],
     "Postmovement": [],
     "ArmDrop": {
@@ -1847,11 +1734,7 @@
     },
     "MovementPurpose": {},
     "Supermovement": [],
-    "Submovement": [
-      "Launch",
-      "Catch",
-      "Absorb"
-    ],
+    "Submovement": ["Launch", "Catch", "Absorb"],
     "Antemovement": [],
     "Postmovement": [],
     "VerticalDyno": {
@@ -2004,9 +1887,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "TricepContraction"
-      ],
+      "Submovement": ["TricepContraction"],
       "Antemovement": [],
       "Postmovement": [],
       "ArmConcentricExtension": {
@@ -2096,9 +1977,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "FingerExtensorContraction"
-      ],
+      "Submovement": ["FingerExtensorContraction"],
       "Antemovement": [],
       "Postmovement": [],
       "FingerConcentricExtension": {
@@ -2205,10 +2084,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "Landing",
-        "Absorb"
-      ],
+      "Submovement": ["Landing", "Absorb"],
       "Antemovement": [],
       "Postmovement": []
     },
@@ -2267,9 +2143,7 @@
           "Rhythm": {}
         },
         "Supermovement": [],
-        "Submovement": [
-          "StraightArm"
-        ],
+        "Submovement": ["StraightArm"],
         "Antemovement": [],
         "Postmovement": []
       }
@@ -2282,11 +2156,7 @@
     },
     "MovementPurpose": {},
     "Supermovement": [],
-    "Submovement": [
-      "LegHook",
-      "ArmHook",
-      "JugGrip"
-    ],
+    "Submovement": ["LegHook", "ArmHook", "JugGrip"],
     "Antemovement": [],
     "Postmovement": []
   },
@@ -2297,10 +2167,7 @@
     },
     "MovementPurpose": {},
     "Supermovement": [],
-    "Submovement": [
-      "LegHook",
-      "ArmHook"
-    ],
+    "Submovement": ["LegHook", "ArmHook"],
     "Antemovement": [],
     "Postmovement": []
   },
@@ -2308,13 +2175,9 @@
     "ArmFlag": {
       "ArmAnteriorFlag": {
         "MovementNamespace": "",
-        "MovementPurpose": [
-          "Balance"
-        ],
+        "MovementPurpose": ["Balance"],
         "Supermovement": [],
-        "Submovement": [
-          "ArmAbduction"
-        ],
+        "Submovement": ["ArmAbduction"],
         "Antemovement": [],
         "Postmovement": [],
         "ArmAnteriorFlag.HorizontalCornerWall": {
@@ -2335,9 +2198,7 @@
       },
       "ArmPosteriorFlag": {
         "MovementNamespace": "",
-        "MovementPurpose": [
-          "Balance"
-        ],
+        "MovementPurpose": ["Balance"],
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
@@ -2345,9 +2206,7 @@
       },
       "ArmAboveFlag": {
         "MovementNamespace": "",
-        "MovementPurpose": [
-          "Balance"
-        ],
+        "MovementPurpose": ["Balance"],
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
@@ -2355,9 +2214,7 @@
       },
       "ArmBelowFlag": {
         "MovementNamespace": "",
-        "MovementPurpose": [
-          "Balance"
-        ],
+        "MovementPurpose": ["Balance"],
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
@@ -2365,9 +2222,7 @@
       },
       "ArmLateralFlag": {
         "MovementNamespace": "",
-        "MovementPurpose": [
-          "Balance"
-        ],
+        "MovementPurpose": ["Balance"],
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
@@ -2375,9 +2230,7 @@
       },
       "ArmAbductionFlag": {
         "MovementNamespace": "",
-        "MovementPurpose": [
-          "Balance"
-        ],
+        "MovementPurpose": ["Balance"],
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
@@ -2386,9 +2239,7 @@
     },
     "LegFlag": {
       "MovementNamespace": "",
-      "MovementPurpose": [
-        "Balance"
-      ],
+      "MovementPurpose": ["Balance"],
       "Supermovement": [],
       "Submovement": [],
       "LegPosteriorFlag": {
@@ -2408,9 +2259,7 @@
       },
       "LegAnteriorFlag": {
         "MovementNamespace": "",
-        "MovementPurpose": [
-          "Balance"
-        ],
+        "MovementPurpose": ["Balance"],
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
@@ -2418,9 +2267,7 @@
       },
       "LegLateralFlag": {
         "MovementNamespace": "",
-        "MovementPurpose": [
-          "Balance"
-        ],
+        "MovementPurpose": ["Balance"],
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
@@ -2428,9 +2275,7 @@
       },
       "LegPosteriorCrossFlag": {
         "MovementNamespace": "",
-        "MovementPurpose": [
-          "Balance"
-        ],
+        "MovementPurpose": ["Balance"],
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
@@ -2438,9 +2283,7 @@
       },
       "LegAnteriorCrossFlag": {
         "MovementNamespace": "",
-        "MovementPurpose": [
-          "Balance"
-        ],
+        "MovementPurpose": ["Balance"],
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
@@ -2564,9 +2407,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "LegCrunch"
-      ],
+      "Supermovement": ["LegCrunch"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -2581,9 +2422,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "LegAbsorb"
-      ],
+      "Supermovement": ["LegAbsorb"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -2594,9 +2433,7 @@
     },
     "MovementPurpose": {},
     "Supermovement": [],
-    "Submovement": [
-      "MuscleActivation"
-    ],
+    "Submovement": ["MuscleActivation"],
     "Antemovement": [],
     "Postmovement": [],
     "Flexion_Dynamic": {
@@ -2691,10 +2528,7 @@
     },
     "MovementPurpose": {},
     "Supermovement": [],
-    "Submovement": [
-      "FingerFlexion",
-      "FingerAbduction"
-    ],
+    "Submovement": ["FingerFlexion", "FingerAbduction"],
     "Antemovement": [],
     "Postmovement": [],
     "JugGrip": {
@@ -2786,9 +2620,7 @@
       "": ""
     },
     "MovementPurpose": {},
-    "Supermovement": [
-      "WristHook"
-    ],
+    "Supermovement": ["WristHook"],
     "Submovement": [],
     "Antemovement": [],
     "Postmovement": [],
@@ -2843,9 +2675,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "ArmRest"
-      ],
+      "Supermovement": ["ArmRest"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -2860,9 +2690,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "LegRest"
-      ],
+      "Supermovement": ["LegRest"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -2897,9 +2725,7 @@
         },
         "Supermovement": [],
         "Submovement": [],
-        "AnteMovement": [
-          "ArmPump"
-        ],
+        "AnteMovement": ["ArmPump"],
         "Postmovement": []
       },
       "ElbowHook": {
@@ -2974,17 +2800,13 @@
             "Rhythm": {}
           },
           "Supermovement": [],
-          "Submovement": [
-            "FootDorsalFlexion"
-          ],
+          "Submovement": ["FootDorsalFlexion"],
           "Antemovement": [],
           "Postmovement": []
         },
         "HeelHook": {
           "MovementNamespace": "",
-          "MovementPurpose": [
-            "ToKeepHipsClose"
-          ],
+          "MovementPurpose": ["ToKeepHipsClose"],
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
@@ -3058,10 +2880,7 @@
                 "Speed": {},
                 "Rhythm": {}
               },
-              "Supermovement": [
-                "LegLegCompression",
-                "LegArmCompression"
-              ],
+              "Supermovement": ["LegLegCompression", "LegArmCompression"],
               "Submovement": [],
               "Antemovement": [],
               "Postmovement": []
@@ -3101,12 +2920,8 @@
       },
       "Straddle": {
         "MovementNamespace": "",
-        "MovementPurpose": [
-          "Rest"
-        ],
-        "Supermovement": [
-          "TopOut"
-        ],
+        "MovementPurpose": ["Rest"],
+        "Supermovement": ["TopOut"],
         "Submovement": [],
         "Antemovement": [],
         "Postmovement": []
@@ -3159,9 +2974,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "LegLock"
-      ],
+      "Supermovement": ["LegLock"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -3176,9 +2989,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "BodyLock"
-      ],
+      "Supermovement": ["BodyLock"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -3313,10 +3124,7 @@
     },
     "MovementPurpose": {},
     "Supermovement": [],
-    "Submovement": [
-      "HipConcentricFlexion",
-      "PlantarFlexion"
-    ],
+    "Submovement": ["HipConcentricFlexion", "PlantarFlexion"],
     "Antemovement": [],
     "Postmovement": [],
     "AnteriorKneebar": {
@@ -3330,10 +3138,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "HipConcentricFlexion",
-        "PlantarFlexion"
-      ],
+      "Submovement": ["HipConcentricFlexion", "PlantarFlexion"],
       "Antemovement": [],
       "Postmovement": []
     },
@@ -3459,10 +3264,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "ToeHook",
-        "KneeHook"
-      ],
+      "Submovement": ["ToeHook", "KneeHook"],
       "Antemovement": [],
       "Postmovement": []
     },
@@ -3517,13 +3319,9 @@
   "Lock": {
     "ArmLock": {
       "MovementNamespace": "",
-      "MovementPurpose": [
-        "SupportingArm"
-      ],
+      "MovementPurpose": ["SupportingArm"],
       "Supermovement": [],
-      "Submovement": [
-        "ArmIsometricContraction"
-      ],
+      "Submovement": ["ArmIsometricContraction"],
       "Antemovement": [],
       "Postmovement": []
     },
@@ -3538,9 +3336,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "LegIsometricContraction"
-      ],
+      "Submovement": ["LegIsometricContraction"],
       "Antemovement": [],
       "Postmovement": []
     },
@@ -3554,10 +3350,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "FingerHook",
-        "HandJam"
-      ],
+      "Supermovement": ["FingerHook", "HandJam"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -3572,12 +3365,8 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "FrontLever"
-      ],
-      "Submovement": [
-        "SpineIsometricContraction"
-      ],
+      "Supermovement": ["FrontLever"],
+      "Submovement": ["SpineIsometricContraction"],
       "Antemovement": [],
       "Postmovement": []
     }
@@ -3589,9 +3378,7 @@
     },
     "MovementPurpose": {},
     "Supermovement": [],
-    "Submovement": [
-      "HighFoot"
-    ],
+    "Submovement": ["HighFoot"],
     "Antemovement": [],
     "Postmovement": []
   },
@@ -4635,9 +4422,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "2_Asymmetric_ArmPump"
-      ],
+      "Submovement": ["2_Asymmetric_ArmPump"],
       "Antemovement": [],
       "Postmovement": []
     },
@@ -4712,9 +4497,7 @@
           "Speed": {},
           "Rhythm": {}
         },
-        "Supermovement": [
-          "ArmExpansion"
-        ],
+        "Supermovement": ["ArmExpansion"],
         "Submovement": [],
         "Antemovement": [],
         "Postmovement": []
@@ -4729,9 +4512,7 @@
           "Speed": {},
           "Rhythm": {}
         },
-        "Supermovement": [
-          "ArmCompression"
-        ],
+        "Supermovement": ["ArmCompression"],
         "Submovement": [],
         "Antemovement": [],
         "Postmovement": []
@@ -4755,15 +4536,11 @@
   },
   "Reach": {
     "MovementNamespace": "",
-    "MovementPurpose": [
-      "Advance"
-    ],
+    "MovementPurpose": ["Advance"],
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "PostMovement": [
-      "Catch"
-    ],
+    "PostMovement": ["Catch"],
     "ArmReach": {
       "ArmArcReach": {
         "MovementNamespace": "",
@@ -4778,9 +4555,7 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "PostMovement": [
-          "Catch"
-        ]
+        "PostMovement": ["Catch"]
       },
       "ArmLateralReach": {
         "MovementNamespace": "",
@@ -4795,9 +4570,7 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "PostMovement": [
-          "Catch"
-        ]
+        "PostMovement": ["Catch"]
       },
       "ArmMedialReach": {
         "MovementNamespace": "",
@@ -4812,9 +4585,7 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "PostMovement": [
-          "Catch"
-        ]
+        "PostMovement": ["Catch"]
       },
       "ArmDownReach": {
         "MovementNamespace": "",
@@ -4826,14 +4597,10 @@
           "Speed": {},
           "Rhythm": {}
         },
-        "Supermovement": [
-          "DownClimb"
-        ],
+        "Supermovement": ["DownClimb"],
         "Submovement": [],
         "Antemovement": [],
-        "PostMovement": [
-          "Undercling"
-        ]
+        "PostMovement": ["Undercling"]
       },
       "ArmUpReach": {
         "MovementNamespace": "",
@@ -4848,9 +4615,7 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "PostMovement": [
-          "Catch"
-        ]
+        "PostMovement": ["Catch"]
       },
       "ArmPosteriorReach": {
         "MovementNamespace": "",
@@ -4865,9 +4630,7 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "PostMovement": [
-          "Catch"
-        ]
+        "PostMovement": ["Catch"]
       },
       "ArmDistalReach": {
         "MovementNamespace": "",
@@ -4882,9 +4645,7 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "PostMovement": [
-          "Catch"
-        ]
+        "PostMovement": ["Catch"]
       },
       "ArmCrossReach": {
         "ArmCrossArmReach": {
@@ -4900,9 +4661,7 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "PostMovement": [
-            "Catch"
-          ],
+          "PostMovement": ["Catch"],
           "ArmCrossArmAboveReach": {
             "MovementNamespace": "",
             "MovementRank": {
@@ -4916,9 +4675,7 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "PostMovement": [
-              "Catch"
-            ],
+            "PostMovement": ["Catch"],
             "ArmCrossArmAbovePosteriorReach": {
               "MovementNamespace": "",
               "MovementRank": {
@@ -4932,9 +4689,7 @@
               "Supermovement": [],
               "Submovement": [],
               "Antemovement": [],
-              "PostMovement": [
-                "Catch"
-              ]
+              "PostMovement": ["Catch"]
             },
             "ArmCrossArmAboveAnteriorReach": {
               "MovementNamespace": "",
@@ -4949,9 +4704,7 @@
               "Supermovement": [],
               "Submovement": [],
               "Antemovement": [],
-              "PostMovement": [
-                "Catch"
-              ]
+              "PostMovement": ["Catch"]
             }
           },
           "ArmCrossLegReach": {
@@ -5011,9 +4764,7 @@
               "Speed": {},
               "Rhythm": {}
             },
-            "Supermovement": [
-              "HangingFootTransfer"
-            ],
+            "Supermovement": ["HangingFootTransfer"],
             "Submovement": [],
             "Antemovement": [],
             "Postmovement": []
@@ -5276,9 +5027,7 @@
     },
     "MovementPurpose": {},
     "Supermovement": [],
-    "Submovement": [
-      "Shake"
-    ],
+    "Submovement": ["Shake"],
     "Antemovement": [],
     "Postmovement": [],
     "ArmRest": {
@@ -5292,9 +5041,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "ArmShake"
-      ],
+      "Submovement": ["ArmShake"],
       "Antemovement": [],
       "Postmovement": []
     },
@@ -5309,9 +5056,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "LegShake"
-      ],
+      "Submovement": ["LegShake"],
       "Antemovement": [],
       "Postmovement": []
     }
@@ -5410,10 +5155,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "CrimpGrip",
-        "HandSwap"
-      ],
+      "Supermovement": ["CrimpGrip", "HandSwap"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -5477,18 +5219,10 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "Clipping",
-        "RopeSlacken"
-      ],
+      "Supermovement": ["Clipping", "RopeSlacken"],
       "Submovement": [],
-      "Antemovement": [
-        "RopeGrip"
-      ],
-      "Postmovement": [
-        "RopeGrip",
-        "CarabinerClip"
-      ]
+      "Antemovement": ["RopeGrip"],
+      "Postmovement": ["RopeGrip", "CarabinerClip"]
     }
   },
   "Rotation": {
@@ -5503,10 +5237,7 @@
           "Speed": {},
           "Rhythm": {}
         },
-        "Supermovement": [
-          "ArmCompression",
-          "TwistLock"
-        ],
+        "Supermovement": ["ArmCompression", "TwistLock"],
         "Submovement": [],
         "Antemovement": [],
         "Postmovement": []
@@ -5650,10 +5381,7 @@
       "": ""
     },
     "MovementPurpose": {},
-    "Supermovement": [
-      "RunJump",
-      "RunLanding"
-    ],
+    "Supermovement": ["RunJump", "RunLanding"],
     "Submovement": [],
     "Antemovement": [],
     "Postmovement": []
@@ -5768,10 +5496,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "ArmRest",
-        "BodyRest"
-      ],
+      "Supermovement": ["ArmRest", "BodyRest"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -5788,10 +5513,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "LegRest",
-        "BodyRest"
-      ],
+      "Supermovement": ["LegRest", "BodyRest"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -5803,15 +5525,8 @@
       "": ""
     },
     "MovementPurpose": {},
-    "Supermovement": [
-      "BodyRest",
-      "RouteReading"
-    ],
-    "Submovement": [
-      "LegFlexion",
-      "LegSmear",
-      "HipFlexion"
-    ],
+    "Supermovement": ["BodyRest", "RouteReading"],
+    "Submovement": ["LegFlexion", "LegSmear", "HipFlexion"],
     "Antemovement": [],
     "Postmovement": []
   },
@@ -5846,9 +5561,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "FootSwap"
-      ],
+      "Supermovement": ["FootSwap"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -5974,10 +5687,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "HangingFootTransfer",
-        "FootJam"
-      ],
+      "Supermovement": ["HangingFootTransfer", "FootJam"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -5992,10 +5702,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "HangingFootTransfer",
-        "LegJam"
-      ],
+      "Supermovement": ["HangingFootTransfer", "LegJam"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -6010,9 +5717,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "ArmJam"
-      ],
+      "Supermovement": ["ArmJam"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -6288,23 +5993,16 @@
   },
   "Stack": {
     "MovementNamespace": "Alignment\\Stack",
-    "MovementPurpose": [
-      "Balance",
-      "Rest"
-    ],
+    "MovementPurpose": ["Balance", "Rest"],
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
     "Postmovement": [],
     "SpineStack": {
       "MovementNamespace": "",
-      "MovementPurpose": [
-        "Balance"
-      ],
+      "MovementPurpose": ["Balance"],
       "Supermovement": [],
-      "Submovement": [
-        "CoreActivation"
-      ],
+      "Submovement": ["CoreActivation"],
       "Antemovement": [],
       "Postmovement": []
     },
@@ -6325,21 +6023,14 @@
     },
     "ArmStack": {
       "MovementNamespace": "",
-      "MovementPurpose": [
-        "Balance"
-      ],
-      "Supermovement": [
-        "ArmBelowRotation"
-      ],
+      "MovementPurpose": ["Balance"],
+      "Supermovement": ["ArmBelowRotation"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
     },
     "BodyStack": {
-      "AlsoKnownAs": [
-        "Stand",
-        "Standing"
-      ],
+      "AlsoKnownAs": ["Stand", "Standing"],
       "MovementNamespace": "",
       "MovementRank": {
         "": ""
@@ -6362,9 +6053,7 @@
     },
     "MovementPurpose": {},
     "Supermovement": [],
-    "Submovement": [
-      "LegExtension"
-    ],
+    "Submovement": ["LegExtension"],
     "Antemovement": [],
     "Postmovement": [],
     "Children": [
@@ -6800,9 +6489,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "HipFlexion"
-      ],
+      "Submovement": ["HipFlexion"],
       "LegBackSwing": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -6960,24 +6647,16 @@
   "Tangent": {
     "LegTangent": {
       "MovementNamespace": "",
-      "MovementPurpose": [
-        "LegRedirect"
-      ],
-      "Supermovement": [
-        "LegSwing"
-      ],
+      "MovementPurpose": ["LegRedirect"],
+      "Supermovement": ["LegSwing"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
     },
     "ArmTangent": {
       "MovementNamespace": "",
-      "MovementPurpose": [
-        "ArmRedirect"
-      ],
-      "Supermovement": [
-        "ArmSwing"
-      ],
+      "MovementPurpose": ["ArmRedirect"],
+      "Supermovement": ["ArmSwing"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -7023,12 +6702,8 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "DriverThumbButton"
-      ],
-      "Submovement": [
-        "MuscleActivation"
-      ],
+      "Supermovement": ["DriverThumbButton"],
+      "Submovement": ["MuscleActivation"],
       "Antemovement": [],
       "Postmovement": []
     },
@@ -7043,9 +6718,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "MuscleActivation"
-      ],
+      "Submovement": ["MuscleActivation"],
       "Antemovement": [],
       "Postmovement": []
     },
@@ -7060,9 +6733,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "MuscleActivation"
-      ],
+      "Submovement": ["MuscleActivation"],
       "Antemovement": [],
       "Postmovement": []
     },
@@ -7077,9 +6748,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "MuscleActivation"
-      ],
+      "Submovement": ["MuscleActivation"],
       "Antemovement": [],
       "Postmovement": []
     },
@@ -7094,9 +6763,7 @@
         "Rhythm": {}
       },
       "Supermovement": [],
-      "Submovement": [
-        "MuscleActivation"
-      ],
+      "Submovement": ["MuscleActivation"],
       "Antemovement": [],
       "Postmovement": []
     },
@@ -7110,12 +6777,8 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "Pinch"
-      ],
-      "Submovement": [
-        "MuscleActivation"
-      ],
+      "Supermovement": ["Pinch"],
+      "Submovement": ["MuscleActivation"],
       "Antemovement": [],
       "Postmovement": []
     }
@@ -7131,9 +6794,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "Routesetting"
-      ],
+      "Supermovement": ["Routesetting"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
@@ -7164,9 +6825,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "Routesetting"
-      ],
+      "Supermovement": ["Routesetting"],
       "Submovement": [],
       "DriverHolster": {
         "MovementNamespace": "",
@@ -7209,9 +6868,7 @@
           "Rhythm": {}
         },
         "Supermovement": [],
-        "Submovement": [
-          "FingerFlexion"
-        ],
+        "Submovement": ["FingerFlexion"],
         "Antemovement": [],
         "Postmovement": []
       },
@@ -7226,9 +6883,7 @@
           "Rhythm": {}
         },
         "Supermovement": [],
-        "Submovement": [
-          "ThumbAbduction"
-        ],
+        "Submovement": ["ThumbAbduction"],
         "Antemovement": [],
         "Postmovement": []
       },
@@ -7294,10 +6949,7 @@
       }
     },
     "Carabiner": {
-      "AlsoKnownAs": [
-        "Karabiner",
-        "Clip"
-      ],
+      "AlsoKnownAs": ["Karabiner", "Clip"],
       "MovementNamespace": "",
       "MovementRank": {
         "": ""
@@ -7337,20 +6989,13 @@
           "Rhythm": {}
         },
         "Supermovement": [],
-        "Submovement": [
-          "Release"
-        ],
-        "AnteMovement": [
-          "RopeClip",
-          "CarabinerOpenGate"
-        ],
+        "Submovement": ["Release"],
+        "AnteMovement": ["RopeClip", "CarabinerOpenGate"],
         "Postmovement": []
       }
     },
     "Quickdraw": {
-      "AlsoKnownAs": [
-        "Clip"
-      ],
+      "AlsoKnownAs": ["Clip"],
       "MovementNamespace": "",
       "MovementRank": {
         "": ""
@@ -7474,9 +7119,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "ChalkUp"
-      ],
+      "Supermovement": ["ChalkUp"],
       "Submovement": [],
       "OpenChalkBag": {
         "MovementNamespace": "",
@@ -7672,21 +7315,15 @@
       "Piton": {
         "PitonInsert": {
           "MovementNamespace": "",
-          "MovementPurpose": [
-            "AidClimbing"
-          ],
+          "MovementPurpose": ["AidClimbing"],
           "Supermovement": [],
-          "Submovement": [
-            "HammerHit"
-          ],
+          "Submovement": ["HammerHit"],
           "Antemovement": [],
           "Postmovement": []
         },
         "PitonRemove": {
           "MovementNamespace": "",
-          "MovementPurpose": [
-            "AidClimbing"
-          ],
+          "MovementPurpose": ["AidClimbing"],
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
@@ -7694,9 +7331,7 @@
         },
         "PitonTest": {
           "MovementNamespace": "",
-          "MovementPurpose": [
-            "AidClimbing"
-          ],
+          "MovementPurpose": ["AidClimbing"],
           "Supermovement": [],
           "Submovement": [
             "ArmPull",
@@ -7710,14 +7345,9 @@
         },
         "Etrier": {
           "MovementNamespace": "",
-          "MovementPurpose": [
-            "AidClimbing"
-          ],
+          "MovementPurpose": ["AidClimbing"],
           "Supermovement": [],
-          "Submovement": [
-            "ArmPull",
-            "LegPush"
-          ],
+          "Submovement": ["ArmPull", "LegPush"],
           "Antemovement": [],
           "Postmovement": []
         }
@@ -7776,9 +7406,7 @@
     },
     "MovementPurpose": {},
     "Supermovement": [],
-    "Submovement": [
-      "Mantle"
-    ],
+    "Submovement": ["Mantle"],
     "Antemovement": [],
     "Postmovement": []
   },
@@ -7806,9 +7434,7 @@
           "Rhythm": {}
         },
         "Supermovement": [],
-        "Submovement": [
-          "FootStab"
-        ]
+        "Submovement": ["FootStab"]
       },
       "HangingFootTransfer_Static": {
         "MovementNamespace": "",
@@ -7821,10 +7447,7 @@
           "Rhythm": {}
         },
         "Supermovement": [],
-        "Submovement": [
-          "LegSwing",
-          "SpineFlexion"
-        ],
+        "Submovement": ["LegSwing", "SpineFlexion"],
         "Antemovement": [],
         "Postmovement": []
       }
@@ -7892,10 +7515,7 @@
           "Rhythm": {}
         },
         "Supermovement": [],
-        "Submovement": [
-          "ArmPull",
-          "LegPush"
-        ],
+        "Submovement": ["ArmPull", "LegPush"],
         "Antemovement": [],
         "Postmovement": []
       },
@@ -7910,10 +7530,7 @@
           "Rhythm": {}
         },
         "Supermovement": [],
-        "Submovement": [
-          "ArmPull",
-          "LegPush"
-        ],
+        "Submovement": ["ArmPull", "LegPush"],
         "Antemovement": [],
         "Postmovement": []
       },
@@ -7943,19 +7560,14 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "HangingFootTransfer",
-        "Gainage"
-      ],
+      "Supermovement": ["HangingFootTransfer", "Gainage"],
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": []
     },
     "ArmTwist": {
       "MovementNamespace": "",
-      "MovementPurpose": [
-        "ArmAbsorb"
-      ],
+      "MovementPurpose": ["ArmAbsorb"],
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
@@ -7963,9 +7575,7 @@
     },
     "LegTwist": {
       "MovementNamespace": "",
-      "MovementPurpose": [
-        "LegAbsorb"
-      ],
+      "MovementPurpose": ["LegAbsorb"],
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
@@ -7973,16 +7583,9 @@
     },
     "BodyTwist": {
       "MovementNamespace": "",
-      "MovementPurpose": [
-        "BodyAbsorb"
-      ],
+      "MovementPurpose": ["BodyAbsorb"],
       "Supermovement": [],
-      "Submovement": [
-        "LegTwist",
-        "BackTwist",
-        "InitiationTwist",
-        "LegAbsorb"
-      ],
+      "Submovement": ["LegTwist", "BackTwist", "InitiationTwist", "LegAbsorb"],
       "Antemovement": [],
       "Postmovement": [],
       "BodyClockwiseTwist": {
@@ -8126,18 +7729,14 @@
   },
   "Wave": {
     "MovementNamespace": "Wave",
-    "MovementPurpose": [
-      "Absorb"
-    ],
+    "MovementPurpose": ["Absorb"],
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
     "Postmovement": [],
     "BodyWave": {
       "MovementNamespace": "Wave.BodyWave",
-      "MovementPurpose": [
-        "BodyAbsorb"
-      ],
+      "MovementPurpose": ["BodyAbsorb"],
       "Supermovement": {
         "Brachiation": "Brachiation.BodyWave"
       },
@@ -8157,12 +7756,8 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [
-        "ArmSwing"
-      ],
-      "Submovement": [
-        "LeadingWithElbow"
-      ],
+      "Supermovement": ["ArmSwing"],
+      "Submovement": ["LeadingWithElbow"],
       "Antemovement": [],
       "Postmovement": [],
       "ArmUpWhip": {
@@ -8235,9 +7830,7 @@
           "Speed": {},
           "Rhythm": {}
         },
-        "Supermovement": [
-          "FootSlipRecovery"
-        ],
+        "Supermovement": ["FootSlipRecovery"],
         "Submovement": [],
         "Antemovement": [],
         "Postmovement": []
@@ -8252,11 +7845,7 @@
           "Speed": {},
           "Rhythm": {}
         },
-        "Supermovement": [
-          "FallOver",
-          "FootStab",
-          "HangingFootTransfer"
-        ],
+        "Supermovement": ["FallOver", "FootStab", "HangingFootTransfer"],
         "Submovement": [],
         "Antemovement": [],
         "Postmovement": []
@@ -8264,9 +7853,7 @@
       "LegUpWhip": {
         "MovementNamespace": "",
         "MovementPurpose": {
-          "InitiationSwing": [
-            "LateralDyno"
-          ]
+          "InitiationSwing": ["LateralDyno"]
         },
         "Supermovement": [
           "LegAbsorb",
@@ -8282,9 +7869,7 @@
       },
       "LegDownWhip": {
         "MovementNamespace": "",
-        "MovementPurpose": [
-          "LegAbsorb"
-        ],
+        "MovementPurpose": ["LegAbsorb"],
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
