@@ -13,7 +13,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "1DimensionalDynamicMovement": {
       "MovementNamespace": "LimitedDimensionMovement\\1DimensionalMovement\\1DimensionalDynamicMovement",
@@ -28,7 +29,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "1DimensionalStaticMovement": {
       "MovementNamespace": "LimitedDimensionMovement\\1DimensionalMovement\\1DimensionalStaticMovement",
@@ -43,7 +45,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "2DimensionalMovement": {
@@ -65,7 +68,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "2Dimensional_Dynamic": {
       "MovementNamespace": "LimitedDimensionMovement\\2DimensionalMovement",
@@ -80,7 +84,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "2Dimensional_Static": {
       "MovementNamespace": "LimitedDimensionMovement\\2DimensionalMovement",
@@ -95,7 +100,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "3Dimensional": {
@@ -112,7 +118,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "3Dimensional_Dynamic": {
       "MovementNamespace": "LimitedDimensionMovement\\3DimensionalMovement",
@@ -127,7 +134,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "3Dimensional_Static": {
       "MovementNamespace": "LimitedDimensionMovement\\3DimensionalMovement",
@@ -142,7 +150,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "4Dimensional": {
@@ -155,7 +164,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "4Dimensional_Static": {
       "MovementNamespace": "LimitedDimensionMovement\\4DimensionalMovement",
@@ -166,7 +176,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Abduction": {
@@ -184,7 +195,8 @@
         "Supermovement": ["Stemming", "ArmArch"],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ArmVerticalAbduction": {
         "MovementNamespace": "PrimaryMovement\\Abduction",
@@ -199,7 +211,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "LegAbduction": {
@@ -216,7 +229,8 @@
         "Supermovement": ["Stemming", "LegArch", "LegExpansion", "LegProp"],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "LegVerticalAbduction": {
         "MovementNamespace": "PrimaryMovement\\Abduction",
@@ -231,7 +245,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "FingerAbduction": {
@@ -247,7 +262,8 @@
       "Supermovement": ["Pinch", "Grip"],
       "Submovement": ["MuscleActivation"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Abduction_Dynamic": {
       "MovementNamespace": "PrimaryMovement\\Abduction",
@@ -262,7 +278,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Abduction_Static": {
       "MovementNamespace": "PrimaryMovement\\Abduction",
@@ -277,7 +294,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Absorb": {
@@ -294,7 +312,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "BodyAbsorb": {
       "MovementNamespace": "SecondaryMovement\\Absorb",
@@ -321,7 +340,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "BodyTwistAbsorb": {
         "MovementNamespace": "SecondaryMovement\\Absorb",
@@ -336,7 +356,8 @@
         "Supermovement": [],
         "Submovement": ["BodyTwist"],
         "AnteMovement": ["LateralDyno.Catch"],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "LegAbsorb": {
@@ -360,6 +381,7 @@
       ],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "LegWhipAbsorb": {
         "MovementNamespace": "SecondaryMovement\\Absorb",
         "MovementRank": {
@@ -373,7 +395,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "LegArcAbsorb": {
         "MovementNamespace": "SecondaryMovement\\Absorb",
@@ -388,7 +411,8 @@
         "Supermovement": ["LegAbsorb"],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "LegKneeUpAbsorb": {
         "MovementNamespace": "SecondaryMovement\\Absorb",
@@ -403,7 +427,8 @@
         "Supermovement": ["LegAbsorb"],
         "Submovement": ["LegFlexion", "LegCrunch"],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "LegTangentAbsorb": {
         "MovementNamespace": "Absorb\\LegAbsorb\\LegTangentAbsorb",
@@ -418,7 +443,8 @@
         "Supermovement": ["LegAbsorb"],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "HeadAbsorb": {
@@ -427,7 +453,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Accurate": {
@@ -439,7 +466,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Aggressive": {
     "MovementNamespace": "MovmentProperty\\Aggressive",
@@ -450,7 +478,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Align": {
     "MovementNamespace": "",
@@ -462,6 +491,7 @@
     "Submovement": [],
     "Antemovement": [],
     "Postmovement": [],
+    "Neuro": [],
     "LegAlign": {
       "MovementNamespace": "",
       "MovementRank": {
@@ -475,10 +505,11 @@
       "Supermovement": ["LegProp"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ArmAlign": {
-      "MovementNamespace": "",
+      "MovementNamespace": "Align\\ArmAlign",
       "MovementRank": {
         "": ""
       },
@@ -490,10 +521,11 @@
       "Supermovement": ["StraightArm", "ArmProp", "ArmArch"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "BodyAlign": {
-      "MovementNamespace": "",
+      "MovementNamespace": "Align\\BodyAlign",
       "MovementRank": {
         "": ""
       },
@@ -505,7 +537,8 @@
       "Supermovement": ["BodyStack", "BodyArch"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "SpineAlign": {
       "MovementNamespace": "",
@@ -520,39 +553,8 @@
       "Supermovement": ["SpineStack"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
-    }
-  },
-  "Alignment": {
-    "Alignment_Dynamic": {
-      "MovementNamespace": "",
-      "MovementRank": {
-        "": ""
-      },
-      "MovementPurpose": {},
-      "Time": {
-        "Speed": {},
-        "Rhythm": {}
-      },
-      "Supermovement": [],
-      "Submovement": [],
-      "Antemovement": [],
-      "Postmovement": []
-    },
-    "Alignment_Static": {
-      "MovementNamespace": "",
-      "MovementRank": {
-        "": ""
-      },
-      "MovementPurpose": {},
-      "Time": {
-        "Speed": {},
-        "Rhythm": {}
-      },
-      "Supermovement": [],
-      "Submovement": [],
-      "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": ["Proprioception"]
     }
   },
   "Arch": {
@@ -577,7 +579,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "BodyArch": {
       "MovementNamespace": "",
@@ -589,10 +592,11 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [],
+      "Supermovement": ["Stemming"],
       "Submovement": ["BodyRest"],
       "AnteMovement": ["FallOver"],
       "Postmovement": [],
+      "Neuro": [],
       "BodyAnteriorArch": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -603,16 +607,17 @@
           "Speed": {},
           "Rhythm": {}
         },
-        "Supermovement": [],
+        "Supermovement": ["BodyArch"],
         "Submovement": [],
-        "Antemovement": [],
-        "Postmovement": []
+        "Antemovement": ["FallOver"],
+        "Postmovement": ["HandFootMatch"],
+        "Neuro": []
       }
     }
   },
   "ArmAboveShoulder": {
     "ArmAboveShoulderCatch": {
-      "MovementNamespace": "",
+      "MovementNamespace": "Position\\ArmPosition\\ArmAboveShoulder",
       "MovementRank": {
         "": ""
       },
@@ -624,12 +629,29 @@
       "Supermovement": ["ArmVerticalReach"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
+  },
+  "Position": {
+    "MovementNamespace": "",
+    "MovementRank": {
+      "1": ""
+    },
+    "MovementPurpose": {},
+    "Time": {
+      "Speed": {},
+      "Rhythm": {}
+    },
+    "Supermovement": [],
+    "Submovement": [],
+    "Antemovement": [],
+    "Postmovement": [],
+    "Neuro": []
   },
   "ArmBelowShoulder": {
     "ArmBelowShoulder_Dynamic": {
-      "MovementNamespace": "",
+      "MovementNamespace": "Position\\ArmPosition\\",
       "MovementRank": {
         "": ""
       },
@@ -641,7 +663,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ArmBelowShoulder_Static": {
       "MovementNamespace": "",
@@ -656,7 +679,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Asymmetric": {
@@ -673,7 +697,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Asymmetric_Static": {
       "MovementNamespace": "",
@@ -688,7 +713,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Balance": {
@@ -730,6 +756,7 @@
     ],
     "Antemovement": [],
     "Postmovement": [],
+    "Neuro": [],
     "AnteriorBrachiation": {
       "MovementNamespace": "",
       "MovementRank": {
@@ -743,7 +770,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "PosteriorBrachiation": {
       "MovementNamespace": "",
@@ -758,7 +786,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LateralBrachiation": {
       "MovementNamespace": "",
@@ -773,7 +802,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "RicochetBrachiation": {
       "MovementNamespace": "",
@@ -788,7 +818,8 @@
       "Supermovement": [],
       "Submovement": ["BodyRedirect", "LegSwing", "LegAbsorb"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "180Brachiation": {
       "MovementNamespace": "",
@@ -815,7 +846,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "180Brachiation_Static": {
         "MovementNamespace": "",
@@ -830,7 +862,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     }
   },
@@ -854,7 +887,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Brush_Static": {
       "MovementNamespace": "ToolMovement\\BrushMovement",
@@ -869,7 +903,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Buckle": {
@@ -890,7 +925,8 @@
         "ArmConcentricExtension"
       ],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LegBuckle": {
       "MovementNamespace": "",
@@ -905,7 +941,8 @@
       "Supermovement": [],
       "Submovement": ["LegEccentricExtension", "LegConcentricExtension"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "FingerBuckle": {
       "MovementNamespace": "",
@@ -920,7 +957,8 @@
       "Supermovement": [],
       "Submovement": ["FingerEccenticExtension"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Bump": {
@@ -931,6 +969,7 @@
     "MovementPurpose": {},
     "Antemovement": [],
     "Postmovement": [],
+    "Neuro": [],
     "ArmBump": {
       "MovementNamespace": "ArmMovement\\ArmBump",
       "MovementRank": {
@@ -945,6 +984,7 @@
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "ArmBump_Dynamic": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -958,7 +998,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ArmStaticBump": {
         "MovementNamespace": "",
@@ -973,7 +1014,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "LegBump": {
@@ -989,7 +1031,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "DynamicBump": {
       "MovementNamespace": "Bump\\DynamicBump",
@@ -1004,7 +1047,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Bump_Static": {
       "MovementNamespace": "",
@@ -1019,7 +1063,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Carabiner": {
@@ -1031,7 +1076,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Catch": {
     "ArmCompressionCatch": {
@@ -1047,7 +1093,8 @@
       "Supermovement": [],
       "Submovement": [],
       "AnteMovement": ["DynamicMovement"],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LegCompressionCatch": {
       "MovementNamespace": "",
@@ -1062,7 +1109,8 @@
       "Supermovement": [],
       "Submovement": [],
       "AnteMovement": ["DynamicMovement"],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HandCatch": {
       "PinchCatch": {
@@ -1078,7 +1126,8 @@
         "Supermovement": [],
         "Submovement": [],
         "AnteMovement": ["DynamicMovement"],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "FootCatch": {
@@ -1099,7 +1148,8 @@
         "FootStab",
         "LegSwing"
       ],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ToeCatch": {
       "MovementNamespace": "",
@@ -1114,7 +1164,8 @@
       "Supermovement": [],
       "Submovement": ["ToeHook"],
       "AnteMovement": ["DynamicMovement", "LegSwing"],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Chalk": {
@@ -1131,7 +1182,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ChalkBlow": {
       "MovementNamespace": "",
@@ -1146,7 +1198,8 @@
       "Supermovement": [],
       "Submovement": [],
       "AnteMovement": ["Brush", "ChalkUp"],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ChalkTicMark": {
       "MovementNamespace": "",
@@ -1161,7 +1214,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Chalk_Dynamic": {
       "MovementNamespace": "",
@@ -1176,7 +1230,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Chalk_Static": {
       "MovementNamespace": "",
@@ -1191,7 +1246,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Circumduction": [
@@ -1209,7 +1265,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     {
       "MovementName": "LegCircumduction",
@@ -1263,7 +1320,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Clipping_Static": {
       "MovementNamespace": "",
@@ -1278,7 +1336,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Compression": {
@@ -1310,7 +1369,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ArmLegCompression": {
       "MovementNamespace": "",
@@ -1325,7 +1385,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ArmChestCompression": {
       "AlsoKnownAs": "Hug",
@@ -1341,7 +1402,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Compression_Dynamic": {
       "MovementNamespace": "",
@@ -1356,7 +1418,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Compression_Static": {
       "MovementNamespace": "",
@@ -1371,7 +1434,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Curve": {
@@ -1388,7 +1452,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Curve_Static": {
       "MovementNamespace": "",
@@ -1403,7 +1468,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Deadpoint": {
@@ -1420,7 +1486,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HorizontalDeadpoint": {
       "MovementNamespace": "",
@@ -1435,7 +1502,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "DiagonalDeadpoint": {
       "MovementNamespace": "",
@@ -1450,7 +1518,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "AnteriorDeadpoint": {
       "MovementNamespace": "",
@@ -1465,7 +1534,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "PosteriorDeadpoint": {
       "MovementNamespace": "",
@@ -1480,7 +1550,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LateralDeadpoint": {
       "MovementNamespace": "",
@@ -1495,7 +1566,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "DownDeadpoint": {
       "MovementNamespace": "",
@@ -1510,7 +1582,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Deflection": {
@@ -1527,7 +1600,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "AngularDeflection": {
       "MovementNamespace": "",
@@ -1542,7 +1616,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "CurvedDeflection": {
       "MovementNamespace": "",
@@ -1557,7 +1632,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "DownDeflection": {
       "MovementNamespace": "",
@@ -1572,7 +1648,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "UpDeflection": {
       "MovementNamespace": "",
@@ -1587,7 +1664,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "OverDeflection": {
       "MovementNamespace": "",
@@ -1602,7 +1680,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Delicate": {
@@ -1619,7 +1698,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Delicate_Static": {
       "MovementNamespace": "",
@@ -1634,7 +1714,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Distal": {},
@@ -1652,7 +1733,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "DownDeadpoint": {
       "MovementNamespace": "",
@@ -1667,7 +1749,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Drop": {
@@ -1680,6 +1763,7 @@
     "Submovement": ["MuscleRelax"],
     "Antemovement": [],
     "Postmovement": [],
+    "Neuro": [],
     "ArmDrop": {
       "MovementNamespace": "",
       "MovementRank": {
@@ -1693,7 +1777,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LegDrop": {
       "MovementNamespace": "",
@@ -1708,7 +1793,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "BodyDrop": {
       "MovementNamespace": "",
@@ -1723,7 +1809,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Dynamic": {},
@@ -1737,6 +1824,7 @@
     "Submovement": ["Launch", "Catch", "Absorb"],
     "Antemovement": [],
     "Postmovement": [],
+    "Neuro": [],
     "VerticalDyno": {
       "MovementNamespace": "",
       "MovementRank": {
@@ -1750,7 +1838,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HorizontalDyno": {
       "MovementNamespace": "",
@@ -1765,7 +1854,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "DownDyno": {
       "MovementNamespace": "",
@@ -1780,7 +1870,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "DiagonalDyno": {
       "MovementNamespace": "",
@@ -1795,7 +1886,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "PosteriorDyno": {
       "MovementNamespace": "",
@@ -1810,7 +1902,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "180Dyno": {
       "MovementNamespace": "",
@@ -1825,7 +1918,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "90Dyno": {
       "MovementNamespace": "",
@@ -1840,7 +1934,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Expansion": {
@@ -1857,7 +1952,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Expansion_Static": {
       "MovementNamespace": "",
@@ -1872,7 +1968,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Extension": {
@@ -1890,6 +1987,7 @@
       "Submovement": ["TricepContraction"],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "ArmConcentricExtension": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -1903,7 +2001,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ArmEccentricExtension": {
         "MovementNamespace": "",
@@ -1918,7 +2017,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "LegExtension": {
@@ -1935,6 +2035,7 @@
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "LegEccentricExtension": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -1948,7 +2049,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "LegConcentricExtension": {
         "MovementNamespace": "",
@@ -1963,7 +2065,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "FingerExtension": {
@@ -1980,6 +2083,7 @@
       "Submovement": ["FingerExtensorContraction"],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "FingerConcentricExtension": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -1993,7 +2097,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "FingerEccenticExtension": {
         "MovementNamespace": "",
@@ -2008,7 +2113,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "SpineExtension": {
@@ -2025,6 +2131,7 @@
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "SpineConcentricExtension": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -2038,7 +2145,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "SpineEccentricExtension": {
         "MovementNamespace": "",
@@ -2053,7 +2161,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "NeckExtension": {
@@ -2069,7 +2178,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Fall": {
@@ -2086,7 +2196,8 @@
       "Supermovement": [],
       "Submovement": ["Landing", "Absorb"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "UncontrolledFall": {
       "MovementNamespace": "",
@@ -2101,7 +2212,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "TwistFall": {
       "MovementNamespace": "",
@@ -2116,7 +2228,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "FallError": {
       "MovementNamespace": "",
@@ -2132,6 +2245,7 @@
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "FallStraightArmError": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -2145,7 +2259,8 @@
         "Supermovement": [],
         "Submovement": ["StraightArm"],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     }
   },
@@ -2158,7 +2273,8 @@
     "Supermovement": [],
     "Submovement": ["LegHook", "ArmHook", "JugGrip"],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Figure9": {
     "MovementNamespace": "",
@@ -2169,7 +2285,8 @@
     "Supermovement": [],
     "Submovement": ["LegHook", "ArmHook"],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Flag": {
     "ArmFlag": {
@@ -2180,6 +2297,7 @@
         "Submovement": ["ArmAbduction"],
         "Antemovement": [],
         "Postmovement": [],
+        "Neuro": [],
         "ArmAnteriorFlag.HorizontalCornerWall": {
           "MovementNamespace": "",
           "MovementRank": {
@@ -2193,7 +2311,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         }
       },
       "ArmPosteriorFlag": {
@@ -2202,7 +2321,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ArmAboveFlag": {
         "MovementNamespace": "",
@@ -2210,7 +2330,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ArmBelowFlag": {
         "MovementNamespace": "",
@@ -2218,7 +2339,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ArmLateralFlag": {
         "MovementNamespace": "",
@@ -2226,7 +2348,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ArmAbductionFlag": {
         "MovementNamespace": "",
@@ -2234,7 +2357,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "LegFlag": {
@@ -2255,7 +2379,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "LegAnteriorFlag": {
         "MovementNamespace": "",
@@ -2263,7 +2388,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "LegLateralFlag": {
         "MovementNamespace": "",
@@ -2271,7 +2397,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "LegPosteriorCrossFlag": {
         "MovementNamespace": "",
@@ -2279,7 +2406,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "LegAnteriorCrossFlag": {
         "MovementNamespace": "",
@@ -2287,7 +2415,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     }
   },
@@ -2305,7 +2434,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ArmEccentricFlexion": {
       "MovementNamespace": "",
@@ -2320,7 +2450,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LegConcentricFlexion": {
       "MovementNamespace": "",
@@ -2335,7 +2466,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LegEccentricFlexion": {
       "MovementNamespace": "",
@@ -2350,7 +2482,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "FingerConcentricFlexion": {
       "MovementNamespace": "",
@@ -2365,7 +2498,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "FingerEccentricFlexion": {
       "MovementNamespace": "",
@@ -2380,7 +2514,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "NeckFlexion": {
       "MovementNamespace": "",
@@ -2395,7 +2530,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HipContcentricFlexion": {
       "MovementNamespace": "",
@@ -2410,7 +2546,8 @@
       "Supermovement": ["LegCrunch"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HipEccentricFlexion": {
       "MovementNamespace": "",
@@ -2425,7 +2562,8 @@
       "Supermovement": ["LegAbsorb"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "MovementNamespace": "",
     "MovementRank": {
@@ -2436,6 +2574,7 @@
     "Submovement": ["MuscleActivation"],
     "Antemovement": [],
     "Postmovement": [],
+    "Neuro": [],
     "Flexion_Dynamic": {
       "MovementNamespace": "",
       "MovementRank": {
@@ -2449,7 +2588,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Flexion_Static": {
       "MovementNamespace": "",
@@ -2464,7 +2604,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Fluid": {
@@ -2481,7 +2622,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Fluid_Static": {
       "MovementNamespace": "",
@@ -2496,7 +2638,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "FootAboveShoulder": {
@@ -2508,7 +2651,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "FootBelowHip": {
     "MovementNamespace": "",
@@ -2519,7 +2663,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Grip": {
     "MovementNamespace": "",
@@ -2531,6 +2676,7 @@
     "Submovement": ["FingerFlexion", "FingerAbduction"],
     "Antemovement": [],
     "Postmovement": [],
+    "Neuro": [],
     "JugGrip": {
       "MovementNamespace": "",
       "MovementRank": {
@@ -2544,7 +2690,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "2FingerGrip": {
       "MovementNamespace": "",
@@ -2559,7 +2706,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "3FingerGrip": {
       "MovementNamespace": "",
@@ -2574,7 +2722,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "4FingerGrip": {
       "MovementNamespace": "",
@@ -2589,7 +2738,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "HandAboveShoulder": {
@@ -2601,7 +2751,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "HandBelowShoulder": {
     "MovementNamespace": "",
@@ -2612,7 +2763,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "HandDeviation": {
     "MovementNamespace": "",
@@ -2624,6 +2776,7 @@
     "Submovement": [],
     "Antemovement": [],
     "Postmovement": [],
+    "Neuro": [],
     "RadialDeviation": {
       "MovementNamespace": "",
       "MovementRank": {
@@ -2637,7 +2790,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "UlnarDeviation": {
       "MovementNamespace": "",
@@ -2652,7 +2806,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Hang": {
@@ -2665,6 +2820,7 @@
     "Submovement": [],
     "Antemovement": [],
     "Postmovement": [],
+    "Neuro": [],
     "ArmHang": {
       "MovementNamespace": "",
       "MovementRank": {
@@ -2678,7 +2834,8 @@
       "Supermovement": ["ArmRest"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LegHang": {
       "MovementNamespace": "",
@@ -2693,7 +2850,8 @@
       "Supermovement": ["LegRest"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Hook": {
@@ -2710,7 +2868,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ArmHook": {
       "WristHook": {
@@ -2726,7 +2885,8 @@
         "Supermovement": [],
         "Submovement": [],
         "AnteMovement": ["ArmPump"],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ElbowHook": {
         "MovementNamespace": "",
@@ -2741,7 +2901,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ShoulderHook": {
         "MovementNamespace": "",
@@ -2756,7 +2917,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "LegHook": {
@@ -2773,7 +2935,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "AnkleHook": {
         "MovementNamespace": "",
@@ -2789,6 +2952,7 @@
         "Submovement": [],
         "Antemovement": [],
         "Postmovement": [],
+        "Neuro": [],
         "ToeHook": {
           "MovementNamespace": "",
           "MovementRank": {
@@ -2802,7 +2966,8 @@
           "Supermovement": [],
           "Submovement": ["FootDorsalFlexion"],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         },
         "HeelHook": {
           "MovementNamespace": "",
@@ -2811,6 +2976,7 @@
           "Submovement": [],
           "Antemovement": [],
           "Postmovement": [],
+          "Neuro": [],
           "HeelVerticalHook": {
             "MovementNamespace": "",
             "MovementRank": {
@@ -2825,6 +2991,7 @@
             "Submovement": [],
             "Antemovement": [],
             "Postmovement": [],
+            "Neuro": [],
             "HeelVerticalHook.AboveHips": {
               "MovementNamespace": "",
               "MovementRank": {
@@ -2838,7 +3005,8 @@
               "Supermovement": [],
               "Submovement": [],
               "Antemovement": [],
-              "Postmovement": []
+              "Postmovement": [],
+              "Neuro": []
             },
             "HeelVerticalHook.BelowHips": {
               "MovementNamespace": "",
@@ -2853,7 +3021,8 @@
               "Supermovement": [],
               "Submovement": [],
               "Antemovement": [],
-              "Postmovement": []
+              "Postmovement": [],
+              "Neuro": []
             },
             "HeelHorizontalHook": {
               "MovementNamespace": "",
@@ -2868,7 +3037,8 @@
               "Supermovement": [],
               "Submovement": [],
               "Antemovement": [],
-              "Postmovement": []
+              "Postmovement": [],
+              "Neuro": []
             },
             "HeelHorizontalHook.PushIntoWall": {
               "MovementNamespace": "",
@@ -2883,7 +3053,8 @@
               "Supermovement": ["LegLegCompression", "LegArmCompression"],
               "Submovement": [],
               "Antemovement": [],
-              "Postmovement": []
+              "Postmovement": [],
+              "Neuro": []
             },
             "HeelHorzontalHook.PullAwayFromWall": {
               "MovementNamespace": "",
@@ -2898,7 +3069,8 @@
               "Supermovement": [],
               "Submovement": [],
               "Antemovement": [],
-              "Postmovement": []
+              "Postmovement": [],
+              "Neuro": []
             }
           },
           "HorizontalHeelHook": {
@@ -2914,7 +3086,8 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           }
         }
       },
@@ -2924,7 +3097,8 @@
         "Supermovement": ["TopOut"],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     }
   },
@@ -2937,7 +3111,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "IsometricContraction": {
     "MovementNamespace": "",
@@ -2949,6 +3124,7 @@
     "Submovement": [],
     "Antemovement": [],
     "Postmovement": [],
+    "Neuro": [],
     "ArmIsometricContraction": {
       "MovementNamespace": "",
       "MovementRank": {
@@ -2962,7 +3138,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LegIsometricContraction": {
       "MovementNamespace": "",
@@ -2977,7 +3154,8 @@
       "Supermovement": ["LegLock"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "SpineIsometricContraction": {
       "MovementNamespace": "",
@@ -2992,7 +3170,8 @@
       "Supermovement": ["BodyLock"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Jam": {
@@ -3009,7 +3188,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Jam_Static": {
       "MovementNamespace": "",
@@ -3024,7 +3204,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "BodyJam": {
       "MovementNamespace": "",
@@ -3039,7 +3220,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HandJam": {
       "MovementNamespace": "",
@@ -3054,7 +3236,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "FootJam": {
       "MovementNamespace": "",
@@ -3070,6 +3253,7 @@
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "HeelToeCam": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -3083,7 +3267,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "LegJam": {
@@ -3099,7 +3284,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ArmJam": {
       "MovementNamespace": "",
@@ -3114,7 +3300,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Kneebar": {
@@ -3127,6 +3314,7 @@
     "Submovement": ["HipConcentricFlexion", "PlantarFlexion"],
     "Antemovement": [],
     "Postmovement": [],
+    "Neuro": [],
     "AnteriorKneebar": {
       "MovementNamespace": "",
       "MovementRank": {
@@ -3140,7 +3328,8 @@
       "Supermovement": [],
       "Submovement": ["HipConcentricFlexion", "PlantarFlexion"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LateralKneebar": {
       "MovementNamespace": "",
@@ -3155,7 +3344,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "2_AnteriorKneebar": {
       "MovementNamespace": "",
@@ -3170,7 +3360,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Lateral": {
@@ -3187,7 +3378,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Lateral_Static": {
       "MovementNamespace": "",
@@ -3202,7 +3394,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Lean": {
@@ -3219,7 +3412,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Lean_Static": {
       "MovementNamespace": "",
@@ -3234,7 +3428,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Lever": {
@@ -3251,7 +3446,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LegLever": {
       "MovementNamespace": "",
@@ -3266,7 +3462,8 @@
       "Supermovement": [],
       "Submovement": ["ToeHook", "KneeHook"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "BodyLever": {
       "MovementNamespace": "",
@@ -3281,7 +3478,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Light": {
@@ -3298,7 +3496,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Light_Static": {
       "MovementNamespace": "",
@@ -3313,7 +3512,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Lock": {
@@ -3323,7 +3523,8 @@
       "Supermovement": [],
       "Submovement": ["ArmIsometricContraction"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LegLock": {
       "MovementNamespace": "",
@@ -3338,7 +3539,8 @@
       "Supermovement": [],
       "Submovement": ["LegIsometricContraction"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "FingerLock": {
       "MovementNamespace": "",
@@ -3353,7 +3555,8 @@
       "Supermovement": ["FingerHook", "HandJam"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "BodyLock": {
       "MovementNamespace": "",
@@ -3368,7 +3571,8 @@
       "Supermovement": ["FrontLever"],
       "Submovement": ["SpineIsometricContraction"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Mantle": {
@@ -3380,7 +3584,8 @@
     "Supermovement": [],
     "Submovement": ["HighFoot"],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Match": {
     "Match_Dynamic": {
@@ -3396,7 +3601,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Match_Static": {
       "MovementNamespace": "",
@@ -3411,7 +3617,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HandMatch": {
       "MovementNamespace": "",
@@ -3426,7 +3633,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "FootMatch": {
       "MovementNamespace": "",
@@ -3441,7 +3649,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HandFootFootMatch": {
       "MovementNamespace": "",
@@ -3456,7 +3665,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HandHandFootMatch": {
       "MovementNamespace": "",
@@ -3471,7 +3681,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HandHandFootFootMatch": {
       "AlsoKnownAs": "4PointMatch",
@@ -3487,7 +3698,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Medial": {
@@ -3499,7 +3711,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "MovementNamespace": "",
   "MovementPurpose": {
@@ -3523,7 +3736,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Nudge_Static": {
       "MovementNamespace": "",
@@ -3538,7 +3752,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "FootNudge": {
       "MovementNamespace": "",
@@ -3553,7 +3768,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HandNudge": {
       "MovementNamespace": "",
@@ -3568,7 +3784,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "FingerNudge": {
       "MovementNamespace": "",
@@ -3583,7 +3800,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HipNudge": {
       "MovementNamespace": "",
@@ -3598,7 +3816,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "OptimizeFriction": {
@@ -3615,7 +3834,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "OptimizeToParallel": {
       "MovementNamespace": "",
@@ -3630,7 +3850,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "OptimizeFriction_Dynamic": {
       "MovementNamespace": "",
@@ -3645,7 +3866,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "OptimizeFriction_Static": {
       "MovementNamespace": "",
@@ -3660,7 +3882,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Overlap": {
@@ -3677,7 +3900,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HandOverlap": {
       "MovementNamespace": "",
@@ -3692,7 +3916,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "FingerOverlap": {
       "MovementNamespace": "",
@@ -3708,6 +3933,7 @@
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "2FingerOverlap": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -3721,7 +3947,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "3FingerOverlap": {
         "MovementNamespace": "",
@@ -3736,7 +3963,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "4FingerOverlap": {
         "MovementNamespace": "",
@@ -3751,7 +3979,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     }
   },
@@ -3769,7 +3998,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Passive_Static": {
       "MovementNamespace": "",
@@ -3784,7 +4014,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Pinch": {
@@ -3801,7 +4032,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "CrimpPinch": {
       "MovementNamespace": "",
@@ -3816,7 +4048,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Pivot": {
@@ -3833,7 +4066,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "PalmPivot": {
       "MovementNamespace": "",
@@ -3848,7 +4082,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "FootPivot": {
       "MovementNamespace": "",
@@ -3875,7 +4110,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ToePivot": {
         "MovementNamespace": "",
@@ -3890,7 +4126,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "HipPivot": {
@@ -3906,7 +4143,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "KneePivot": {
       "MovementNamespace": "",
@@ -3921,7 +4159,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HeadPivot": {
       "MovementNamespace": "",
@@ -3936,106 +4175,11 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
-  "Position": {
-    "Position_Dynamic": {
-      "MovementNamespace": "",
-      "MovementRank": {
-        "": ""
-      },
-      "MovementPurpose": {},
-      "Time": {
-        "Speed": {},
-        "Rhythm": {}
-      },
-      "Supermovement": [],
-      "Submovement": [],
-      "Antemovement": [],
-      "Postmovement": []
-    },
-    "Position_Static": {
-      "MovementNamespace": "",
-      "MovementRank": {
-        "": ""
-      },
-      "MovementPurpose": {},
-      "Time": {
-        "Speed": {},
-        "Rhythm": {}
-      },
-      "Supermovement": [],
-      "Submovement": [],
-      "Antemovement": [],
-      "Postmovement": []
-    }
-  },
-  "Position;Expansion": {
-    "MovementNamespace": "",
-    "MovementRank": {
-      "": ""
-    },
-    "MovementPurpose": {},
-    "Supermovement": [],
-    "Submovement": [],
-    "Antemovement": [],
-    "Postmovement": []
-  },
-  "Position;Expansion_Dynamic": {
-    "MovementNamespace": "",
-    "MovementRank": {
-      "": ""
-    },
-    "MovementPurpose": {},
-    "Supermovement": [],
-    "Submovement": [],
-    "Antemovement": [],
-    "Postmovement": []
-  },
-  "Position;Expansion_Static": {
-    "MovementNamespace": "",
-    "MovementRank": {
-      "": ""
-    },
-    "MovementPurpose": {},
-    "Supermovement": [],
-    "Submovement": [],
-    "Antemovement": [],
-    "Postmovement": []
-  },
-  "Position;Posture": {
-    "Position;Posture_Dynamic": {
-      "MovementNamespace": "",
-      "MovementRank": {
-        "": ""
-      },
-      "MovementPurpose": {},
-      "Time": {
-        "Speed": {},
-        "Rhythm": {}
-      },
-      "Supermovement": [],
-      "Submovement": [],
-      "Antemovement": [],
-      "Postmovement": []
-    },
-    "Position;Posture_Static": {
-      "MovementNamespace": "",
-      "MovementRank": {
-        "": ""
-      },
-      "MovementPurpose": {},
-      "Time": {
-        "Speed": {},
-        "Rhythm": {}
-      },
-      "Supermovement": [],
-      "Submovement": [],
-      "Antemovement": [],
-      "Postmovement": []
-    }
-  },
+
   "Positioning": {
     "MovementNamespace": "",
     "MovementRank": {
@@ -4045,7 +4189,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Positioning_Dynamic": {
     "MovementNamespace": "",
@@ -4056,7 +4201,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Positioning_Static": {
     "MovementNamespace": "",
@@ -4067,7 +4213,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Posture": {
     "Posture_Dynamic": {
@@ -4083,7 +4230,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Posture_Static": {
       "MovementNamespace": "",
@@ -4098,7 +4246,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Precise": {
@@ -4115,7 +4264,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Precise_Static": {
       "MovementNamespace": "",
@@ -4130,7 +4280,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "ProjectileMotion": {
@@ -4142,7 +4293,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "ProjectileMotion_Dynamic": {
     "MovementNamespace": "",
@@ -4153,7 +4305,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Prop": {
     "LegProp": {
@@ -4170,6 +4323,7 @@
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "2_LegProp": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -4183,7 +4337,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "ArmProp": {
@@ -4200,6 +4355,7 @@
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "2_ArmProp": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -4213,7 +4369,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "FingerProp": {
@@ -4230,6 +4387,7 @@
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "2_FingerProp": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -4243,7 +4401,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     }
   },
@@ -4256,7 +4415,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Pull": {
     "Pull_Dynamic": {
@@ -4273,6 +4433,7 @@
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "2_Pull_Dynamic": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -4286,7 +4447,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "Pull_Static": {
@@ -4303,6 +4465,7 @@
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "2_Pull_Static": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -4316,7 +4479,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ArmPull": {
         "MovementNamespace": "",
@@ -4332,6 +4496,7 @@
         "Submovement": [],
         "Antemovement": [],
         "Postmovement": [],
+        "Neuro": [],
         "ArmDistalPull": {
           "MovementNamespace": "",
           "MovementRank": {
@@ -4345,7 +4510,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         },
         "ArmMedialPull": {
           "MovementNamespace": "",
@@ -4360,7 +4526,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         }
       },
       "LegPull": {
@@ -4377,6 +4544,7 @@
         "Submovement": [],
         "Antemovement": [],
         "Postmovement": [],
+        "Neuro": [],
         "LegMedialPull": {
           "MovementNamespace": "",
           "MovementRank": {
@@ -4390,7 +4558,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         },
         "LegDistalPull": {
           "MovementNamespace": "",
@@ -4405,7 +4574,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         }
       }
     }
@@ -4424,7 +4594,8 @@
       "Supermovement": [],
       "Submovement": ["2_Asymmetric_ArmPump"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LegPump": {
       "MovementNamespace": "",
@@ -4439,7 +4610,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Push": {
@@ -4456,7 +4628,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Push_Static": {
       "MovementNamespace": "",
@@ -4471,7 +4644,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ArmPush": {
       "MovementNamespace": "",
@@ -4487,6 +4661,7 @@
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "ArmDistalPush": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -4500,7 +4675,8 @@
         "Supermovement": ["ArmExpansion"],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ArmMedialPush": {
         "MovementNamespace": "",
@@ -4515,7 +4691,8 @@
         "Supermovement": ["ArmCompression"],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "LegPush": {
@@ -4531,7 +4708,8 @@
       "Supermovement": ["Launch"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Reach": {
@@ -4720,7 +4898,8 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           },
           "ArmCrossMidlineReach": {
             "MovementNamespace": "",
@@ -4735,7 +4914,8 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           }
         },
         "ArmRadialReach": {
@@ -4751,7 +4931,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         },
         "LegReach": {
           "LegRadialReach": {
@@ -4767,7 +4948,8 @@
             "Supermovement": ["HangingFootTransfer"],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           },
           "LegArcReach": {
             "MovementNamespace": "",
@@ -4782,7 +4964,8 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           },
           "LegLateralReach": {
             "MovementNamespace": "",
@@ -4797,7 +4980,8 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           },
           "LegMedialReach": {
             "MovementNamespace": "",
@@ -4812,7 +4996,8 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           },
           "LegDownReach": {
             "MovementNamespace": "",
@@ -4827,7 +5012,8 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           },
           "LegUpReach": {
             "MovementNamespace": "",
@@ -4842,7 +5028,8 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           },
           "LegPosteriorReach": {
             "MovementNamespace": "",
@@ -4857,7 +5044,8 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           },
           "LegDistalReach": {
             "MovementNamespace": "",
@@ -4872,7 +5060,8 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           },
           "LegCrossReach": {
             "LegCrossLegReach": {
@@ -4888,7 +5077,8 @@
               "Supermovement": [],
               "Submovement": [],
               "Antemovement": [],
-              "Postmovement": []
+              "Postmovement": [],
+              "Neuro": []
             },
             "LegCrossArmReach": {
               "MovementNamespace": "",
@@ -4903,7 +5093,8 @@
               "Supermovement": [],
               "Submovement": [],
               "Antemovement": [],
-              "Postmovement": []
+              "Postmovement": [],
+              "Neuro": []
             },
             "LegCrossMidlineReach": {
               "MovementNamespace": "",
@@ -4918,7 +5109,8 @@
               "Supermovement": [],
               "Submovement": [],
               "Antemovement": [],
-              "Postmovement": []
+              "Postmovement": [],
+              "Neuro": []
             }
           }
         }
@@ -4939,7 +5131,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ReciprocalInhibition_Static": {
       "MovementNamespace": "",
@@ -4954,7 +5147,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Relative": {
@@ -4966,7 +5160,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Relative_Dynamic": {
     "MovementNamespace": "",
@@ -4977,7 +5172,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Relative_Static": {
     "MovementNamespace": "",
@@ -4988,7 +5184,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Rest": {
     "Rest_Dynamic": {
@@ -5004,7 +5201,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Rest_Static": {
       "MovementNamespace": "",
@@ -5019,7 +5217,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "MovementNamespace": "",
     "MovementRank": {
@@ -5030,6 +5229,7 @@
     "Submovement": ["Shake"],
     "Antemovement": [],
     "Postmovement": [],
+    "Neuro": [],
     "ArmRest": {
       "MovementNamespace": "",
       "MovementRank": {
@@ -5043,7 +5243,8 @@
       "Supermovement": [],
       "Submovement": ["ArmShake"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LegRest": {
       "MovementNamespace": "",
@@ -5058,7 +5259,8 @@
       "Supermovement": [],
       "Submovement": ["LegShake"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "RockOver": {
@@ -5075,7 +5277,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ArmRockOver": {
       "MovementNamespace": "",
@@ -5090,7 +5293,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "RockOver_Dynamic": {
       "MovementNamespace": "",
@@ -5105,7 +5309,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "RockOver_Static": {
       "MovementNamespace": "",
@@ -5120,7 +5325,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Roll": {
@@ -5143,7 +5349,8 @@
       ],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "FingerRoll": {
       "MovementNamespace": "",
@@ -5158,7 +5365,8 @@
       "Supermovement": ["CrimpGrip", "HandSwap"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HandRoll": {
       "WristRoll": {
@@ -5174,7 +5382,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     }
   },
@@ -5192,7 +5401,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Rope_Static": {
       "MovementNamespace": "",
@@ -5207,7 +5417,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "RopeBite": {
       "MovementNamespace": "",
@@ -5240,7 +5451,8 @@
         "Supermovement": ["ArmCompression", "TwistLock"],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ArmExternalRotation": {
         "MovementNamespace": "ArmMovement\\ArmRotation\\ArmExternalRotation",
@@ -5255,7 +5467,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "LegRotation": {
@@ -5272,6 +5485,7 @@
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "LegInternalRotation": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -5285,7 +5499,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "FootRotation": {
@@ -5313,7 +5528,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "FootSupination": {
         "MovementNamespace": "",
@@ -5328,7 +5544,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "HandRotation": {
@@ -5356,7 +5573,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "HandPronation": {
         "MovementNamespace": "",
@@ -5371,7 +5589,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     }
   },
@@ -5384,7 +5603,8 @@
     "Supermovement": ["RunJump", "RunLanding"],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "ScapulaMovement": {
     "MovementNamespace": "ArmMovement\\ScapulaMovement",
@@ -5407,7 +5627,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ScapulaElevation": {
       "MovementNamespace": "ArmMovement\\ScapulaMovement\\ScapulaElevation",
@@ -5422,7 +5643,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ScapulaRetraction": {
       "MovementNamespace": "ArmMovement\\ScapulaMovement\\ScapulaRetraction",
@@ -5437,7 +5659,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ScapulaDepression": {
       "MovementNamespace": "ArmMovement\\ScapulaMovement\\ScapulaDepression",
@@ -5452,7 +5675,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ScapulaUpRotation": {
       "MovementNamespace": "ArmMovement\\ScapulaMovement\\ScapulaUpRotation",
@@ -5467,7 +5691,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ScapulaDownRotation": {
       "MovementNamespace": "ArmMovement\\ScapulaMovement\\ScapulaDownRotation",
@@ -5482,7 +5707,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "ShakeOut": {
@@ -5499,7 +5725,8 @@
       "Supermovement": ["ArmRest", "BodyRest"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LegShake": {
       "MovementNamespace": "LegMovement\\LegShake",
@@ -5516,7 +5743,8 @@
       "Supermovement": ["LegRest", "BodyRest"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Sit": {
@@ -5528,7 +5756,8 @@
     "Supermovement": ["BodyRest", "RouteReading"],
     "Submovement": ["LegFlexion", "LegSmear", "HipFlexion"],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Slide": {
     "HandSlide": {
@@ -5549,7 +5778,8 @@
       ],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "FingerSlide": {
       "MovementNamespace": "",
@@ -5564,7 +5794,8 @@
       "Supermovement": ["FootSwap"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "FootSlide": {
       "MovementNamespace": "",
@@ -5579,7 +5810,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Slip": {
@@ -5596,6 +5828,7 @@
     "Submovement": [],
     "Antemovement": [],
     "Postmovement": [],
+    "Neuro": [],
     "Children": [
       {
         "MovementName": "FootSlip",
@@ -5611,7 +5844,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       {
         "MovementName": "HandSlip",
@@ -5627,7 +5861,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     ]
   },
@@ -5645,7 +5880,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Slot_Static": {
       "MovementNamespace": "",
@@ -5660,7 +5896,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HandSlot": {
       "MovementNamespace": "",
@@ -5675,7 +5912,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "FootSlot": {
       "MovementNamespace": "",
@@ -5690,7 +5928,8 @@
       "Supermovement": ["HangingFootTransfer", "FootJam"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LegSlot": {
       "MovementNamespace": "",
@@ -5705,7 +5944,8 @@
       "Supermovement": ["HangingFootTransfer", "LegJam"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ArmSlot": {
       "MovementNamespace": "",
@@ -5720,7 +5960,8 @@
       "Supermovement": ["ArmJam"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "BodySlot": {
       "MovementNamespace": "",
@@ -5735,7 +5976,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Smear": {
@@ -5752,7 +5994,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "FootSmear": {
       "MovementNamespace": "",
@@ -5767,7 +6010,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LegSmear": {
       "MovementNamespace": "",
@@ -5782,7 +6026,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HipSmear": {
       "MovementNamespace": "",
@@ -5797,7 +6042,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HeadSmear": {
       "ChinSmear": {
@@ -5813,7 +6059,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "CrownSmear": {
         "MovementNamespace": "",
@@ -5828,7 +6075,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     }
   },
@@ -5846,7 +6094,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Smooth_Static": {
       "MovementNamespace": "",
@@ -5861,7 +6110,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Space": {
@@ -5873,7 +6123,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Splits": {
     "MovementNamespace": "",
@@ -5885,6 +6136,7 @@
     "Submovement": [],
     "Antemovement": [],
     "Postmovement": [],
+    "Neuro": [],
     "AnteriorSplits": {
       "MovementNamespace": "",
       "MovementRank": {
@@ -5898,7 +6150,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LateralSplits": {
       "MovementNamespace": "",
@@ -5913,7 +6166,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Spotting": {
@@ -5930,7 +6184,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Spotting_Static": {
       "MovementNamespace": "",
@@ -5945,7 +6200,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Stab": {
@@ -5962,7 +6218,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "HandStab": {
       "MovementNamespace": "",
@@ -5977,7 +6234,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Stabilizer": {
@@ -5989,7 +6247,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Stack": {
     "MovementNamespace": "Alignment\\Stack",
@@ -5998,13 +6257,15 @@
     "Submovement": [],
     "Antemovement": [],
     "Postmovement": [],
+    "Neuro": [],
     "SpineStack": {
       "MovementNamespace": "",
       "MovementPurpose": ["Balance"],
       "Supermovement": [],
       "Submovement": ["CoreActivation"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LegStack": {
       "MovementNamespace": "",
@@ -6019,7 +6280,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ArmStack": {
       "MovementNamespace": "",
@@ -6027,7 +6289,8 @@
       "Supermovement": ["ArmBelowRotation"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "BodyStack": {
       "AlsoKnownAs": ["Stand", "Standing"],
@@ -6043,7 +6306,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Stand": {
@@ -6056,6 +6320,7 @@
     "Submovement": ["LegExtension"],
     "Antemovement": [],
     "Postmovement": [],
+    "Neuro": [],
     "Children": [
       {
         "ToStand": {
@@ -6071,7 +6336,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         }
       }
     ]
@@ -6085,7 +6351,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Subtle": {
     "Subtle_Dynamic": {
@@ -6101,7 +6368,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Subtle_Static": {}
   },
@@ -6122,6 +6390,7 @@
         "Submovement": [],
         "Antemovement": [],
         "Postmovement": [],
+        "Neuro": [],
         "Children": [
           {
             "MovementName": "PianoSwap",
@@ -6137,7 +6406,8 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           }
         ]
       },
@@ -6156,7 +6426,8 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           },
           "FootSmearSwap": {
             "MovementNamespace": "",
@@ -6171,7 +6442,8 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           },
           "FootRollSwap": {
             "MovementNamespace": "",
@@ -6186,7 +6458,8 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           }
         },
         "FingerSwap": {
@@ -6202,7 +6475,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         },
         "HandFootSwap": {
           "HandHeelSwap": {
@@ -6218,7 +6492,8 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           },
           "HandToeSwap": {
             "MovementNamespace": "",
@@ -6233,7 +6508,8 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           }
         },
         "HandHipSwap": {
@@ -6249,7 +6525,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         },
         "FootHandSwap": {
           "HeelHandSwap": {
@@ -6265,7 +6542,8 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           },
           "ToeHandSwap": {
             "MovementNamespace": "",
@@ -6280,7 +6558,8 @@
             "Supermovement": [],
             "Submovement": [],
             "Antemovement": [],
-            "Postmovement": []
+            "Postmovement": [],
+            "Neuro": []
           }
         },
         "HipHandSwap": {
@@ -6296,7 +6575,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         },
         "ShoulderHandSwap": {
           "MovementNamespace": "",
@@ -6311,7 +6591,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         },
         "KneeHandSwap": {
           "MovementNamespace": "",
@@ -6326,7 +6607,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         },
         "HandKneeSwap": {
           "MovementNamespace": "",
@@ -6341,7 +6623,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         },
         "HeadHandSwap": {
           "MovementNamespace": "",
@@ -6356,7 +6639,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         },
         "HandHeadSwap": {
           "MovementNamespace": "",
@@ -6371,7 +6655,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         },
         "Swap_Dynamic": {
           "MovementNamespace": "",
@@ -6386,7 +6671,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         },
         "Swap_Static": {
           "MovementNamespace": "",
@@ -6401,7 +6687,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         }
       }
     ]
@@ -6432,7 +6719,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ArmInitiationSwing": {
         "MovementNamespace": "",
@@ -6447,7 +6735,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ArmForeSwing": {
         "MovementNamespace": "",
@@ -6462,7 +6751,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ArmTwistSwing": {
         "MovementNamespace": "",
@@ -6503,7 +6793,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "LegInitiationSwing": {
         "MovementNamespace": "",
@@ -6518,7 +6809,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "LegForeSwing": {
         "MovementNamespace": "",
@@ -6533,7 +6825,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "LegTwistSwing": {
         "MovementNamespace": "",
@@ -6548,7 +6841,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "BackSwing": {
@@ -6564,7 +6858,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "InitiationSwing": {
       "MovementNamespace": "",
@@ -6579,7 +6874,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ForeSwing": {
       "MovementNamespace": "",
@@ -6594,7 +6890,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "TwistSwing": {
       "MovementNamespace": "",
@@ -6609,7 +6906,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Symmetrical": {
@@ -6626,7 +6924,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Symmetrical_Static": {
       "MovementNamespace": "",
@@ -6641,7 +6940,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Tangent": {
@@ -6651,7 +6951,8 @@
       "Supermovement": ["LegSwing"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ArmTangent": {
       "MovementNamespace": "",
@@ -6659,7 +6960,8 @@
       "Supermovement": ["ArmSwing"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Tenuous": {
@@ -6680,7 +6982,8 @@
     "Supermovement": [],
     "Submovement": [],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Thumb": {
     "MovementNamespace": "",
@@ -6692,6 +6995,7 @@
     "Submovement": [],
     "Antemovement": [],
     "Postmovement": [],
+    "Neuro": [],
     "ThumbAbduction": {
       "MovementNamespace": "",
       "MovementRank": {
@@ -6705,7 +7009,8 @@
       "Supermovement": ["DriverThumbButton"],
       "Submovement": ["MuscleActivation"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ThumbRadialAbduction": {
       "MovementNamespace": "",
@@ -6720,7 +7025,8 @@
       "Supermovement": [],
       "Submovement": ["MuscleActivation"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ThumbPalmarAbduction": {
       "MovementNamespace": "",
@@ -6735,7 +7041,8 @@
       "Supermovement": [],
       "Submovement": ["MuscleActivation"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ThumbFlexion": {
       "MovementNamespace": "",
@@ -6750,7 +7057,8 @@
       "Supermovement": [],
       "Submovement": ["MuscleActivation"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ThumbExtension": {
       "MovementNamespace": "",
@@ -6765,7 +7073,8 @@
       "Supermovement": [],
       "Submovement": ["MuscleActivation"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ThumbOpposition": {
       "MovementNamespace": "",
@@ -6780,7 +7089,8 @@
       "Supermovement": ["Pinch"],
       "Submovement": ["MuscleActivation"],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Tool": {
@@ -6797,7 +7107,8 @@
       "Supermovement": ["Routesetting"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Rope": {
       "MovementNamespace": "",
@@ -6812,7 +7123,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Driver": {
       "AlsoKnownAs": "Drill",
@@ -6840,7 +7152,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "DriverUnholster": {
         "MovementNamespace": "",
@@ -6855,7 +7168,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "DriverFingerButton": {
         "MovementNamespace": "",
@@ -6870,7 +7184,8 @@
         "Supermovement": [],
         "Submovement": ["FingerFlexion"],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "DriverThumbButton": {
         "MovementNamespace": "",
@@ -6885,7 +7200,8 @@
         "Supermovement": [],
         "Submovement": ["ThumbAbduction"],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "DriverLoadScrew": {
         "MovementNamespace": "",
@@ -6900,7 +7216,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "DriverUnloadScrew": {
         "MovementNamespace": "",
@@ -6915,7 +7232,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "DriverLoadBolt": {
         "MovementNamespace": "",
@@ -6930,7 +7248,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "DriverUnloadBolt": {
         "MovementNamespace": "",
@@ -6945,7 +7264,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "Carabiner": {
@@ -6963,6 +7283,7 @@
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "CarabinerOpenGate": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -6976,7 +7297,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "CarabinerCloseGate": {
         "MovementNamespace": "",
@@ -6991,7 +7313,8 @@
         "Supermovement": [],
         "Submovement": ["Release"],
         "AnteMovement": ["RopeClip", "CarabinerOpenGate"],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "Quickdraw": {
@@ -7020,7 +7343,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "GearLoopClip": {
         "MovementNamespace": "",
@@ -7035,7 +7359,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "GearLoopUnclip": {
         "MovementNamespace": "",
@@ -7050,7 +7375,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "Sling": {
@@ -7079,6 +7405,7 @@
       "Supermovement": [],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "Submovement": [],
       "PutOnHarness": {
         "MovementNamespace": "",
@@ -7093,7 +7420,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "TakeOffHarness": {
         "MovementNamespace": "",
@@ -7134,7 +7462,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "CloseChalkBag": {
         "MovementNamespace": "",
@@ -7175,7 +7504,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "DonHelmet": {
         "MovementNamespace": "",
@@ -7190,7 +7520,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "Protection": {
@@ -7207,7 +7538,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ProtectionRemove": {
         "MovementNamespace": "",
@@ -7222,7 +7554,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ProtectionTest": {
         "MovementNamespace": "",
@@ -7237,7 +7570,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "Bolt": {
         "BoltInsert": {
@@ -7279,7 +7613,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         }
       },
       "Hammer": {
@@ -7296,6 +7631,7 @@
         "Submovement": [],
         "Antemovement": [],
         "Postmovement": [],
+        "Neuro": [],
         "HammerHit": {
           "MovementNamespace": "",
           "MovementRank": {
@@ -7309,7 +7645,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         }
       },
       "Piton": {
@@ -7319,7 +7656,8 @@
           "Supermovement": [],
           "Submovement": ["HammerHit"],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         },
         "PitonRemove": {
           "MovementNamespace": "",
@@ -7327,7 +7665,8 @@
           "Supermovement": [],
           "Submovement": [],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         },
         "PitonTest": {
           "MovementNamespace": "",
@@ -7341,7 +7680,8 @@
             "@Landing:LegExtension"
           ],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         },
         "Etrier": {
           "MovementNamespace": "",
@@ -7349,7 +7689,8 @@
           "Supermovement": [],
           "Submovement": ["ArmPull", "LegPush"],
           "Antemovement": [],
-          "Postmovement": []
+          "Postmovement": [],
+          "Neuro": []
         }
       }
     },
@@ -7367,6 +7708,7 @@
       "Submovement": [],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "RodeoClip": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -7380,7 +7722,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "Tool_Static": {
@@ -7396,7 +7739,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "TopOut": {
@@ -7408,7 +7752,8 @@
     "Supermovement": [],
     "Submovement": ["Mantle"],
     "Antemovement": [],
-    "Postmovement": []
+    "Postmovement": [],
+    "Neuro": []
   },
   "Transition": {
     "HangingFootTransfer": {
@@ -7449,7 +7794,8 @@
         "Supermovement": [],
         "Submovement": ["LegSwing", "SpineFlexion"],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "Transition_Dynamic": {
@@ -7465,7 +7811,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Transition_Static": {
       "MovementNamespace": "",
@@ -7480,7 +7827,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Twist": {
@@ -7504,6 +7852,7 @@
       ],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "AbsorbTwist": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -7517,7 +7866,8 @@
         "Supermovement": [],
         "Submovement": ["ArmPull", "LegPush"],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "InitiationTwist": {
         "MovementNamespace": "",
@@ -7532,7 +7882,8 @@
         "Supermovement": [],
         "Submovement": ["ArmPull", "LegPush"],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "WhileTwist": {
         "MovementNamespace": "",
@@ -7547,7 +7898,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     },
     "Twist_Static": {
@@ -7563,7 +7915,8 @@
       "Supermovement": ["HangingFootTransfer", "Gainage"],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ArmTwist": {
       "MovementNamespace": "",
@@ -7571,7 +7924,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "LegTwist": {
       "MovementNamespace": "",
@@ -7579,7 +7933,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "BodyTwist": {
       "MovementNamespace": "",
@@ -7588,6 +7943,7 @@
       "Submovement": ["LegTwist", "BackTwist", "InitiationTwist", "LegAbsorb"],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "BodyClockwiseTwist": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -7601,7 +7957,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "BodyCounterclockwiseTwist": {
         "MovementNamespace": "",
@@ -7616,7 +7973,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     }
   },
@@ -7634,7 +7992,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "UpReach": {
       "MovementNamespace": "",
@@ -7649,7 +8008,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "UpDeadpoint": {
       "MovementNamespace": "",
@@ -7676,7 +8036,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "OverThenUpDeadpoint": {
         "MovementNamespace": "",
@@ -7691,7 +8052,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       }
     }
   },
@@ -7709,7 +8071,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "Vertical_Static": {
       "MovementNamespace": "",
@@ -7724,7 +8087,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Wave": {
@@ -7734,6 +8098,7 @@
     "Submovement": [],
     "Antemovement": [],
     "Postmovement": [],
+    "Neuro": [],
     "BodyWave": {
       "MovementNamespace": "Wave.BodyWave",
       "MovementPurpose": ["BodyAbsorb"],
@@ -7742,7 +8107,8 @@
       },
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Whip": {
@@ -7760,6 +8126,7 @@
       "Submovement": ["LeadingWithElbow"],
       "Antemovement": [],
       "Postmovement": [],
+      "Neuro": [],
       "ArmUpWhip": {
         "MovementNamespace": "",
         "MovementRank": {
@@ -7773,7 +8140,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ArmOverWhip": {
         "MovementNamespace": "Whip",
@@ -7788,7 +8156,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ArmIntoWallWhip": {
         "MovementNamespace": "",
@@ -7803,7 +8172,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "ArmAwayFromWallWhip": {
         "MovementNamespace": "",
@@ -7833,7 +8203,8 @@
         "Supermovement": ["FootSlipRecovery"],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "LegOverWhip": {
         "MovementNamespace": "",
@@ -7848,7 +8219,8 @@
         "Supermovement": ["FallOver", "FootStab", "HangingFootTransfer"],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "LegUpWhip": {
         "MovementNamespace": "",
@@ -7865,7 +8237,8 @@
           "LegFlexion": ""
         },
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "LegDownWhip": {
         "MovementNamespace": "",
@@ -7873,7 +8246,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "LegTwistWhip": {
         "MovementNamespace": "",
@@ -7888,7 +8262,8 @@
         "Supermovement": [],
         "Submovement": [],
         "Antemovement": [],
-        "Postmovement": []
+        "Postmovement": [],
+        "Neuro": []
       },
       "MovementNamespace": "",
       "MovementRank": {
@@ -7902,7 +8277,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "BodyWhip": {
       "MovementNamespace": "",
@@ -7917,7 +8293,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   },
   "Wrap": {
@@ -7934,7 +8311,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ArmWrap": {
       "MovementNamespace": "",
@@ -7949,7 +8327,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     },
     "ThumbWrap": {
       "MovementNamespace": "",
@@ -7964,7 +8343,8 @@
       "Supermovement": [],
       "Submovement": [],
       "Antemovement": [],
-      "Postmovement": []
+      "Postmovement": [],
+      "Neuro": []
     }
   }
 }
