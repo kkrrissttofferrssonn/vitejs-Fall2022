@@ -349,7 +349,7 @@
         "Speed": {},
         "Rhythm": {}
       },
-      "Supermovement": [],
+      "Supermovement": ["BodyAbsorb"],
       "Submovement": [
         "LegEccentricFlexion",
         "LegEccentricExtension",
@@ -385,7 +385,7 @@
           "Speed": {},
           "Rhythm": {}
         },
-        "Supermovement": [],
+        "Supermovement": ["LegAbsorb"],
         "Submovement": [],
         "Antemovement": [],
         "Postmovement": []
@@ -400,13 +400,13 @@
           "Speed": {},
           "Rhythm": {}
         },
-        "Supermovement": [],
+        "Supermovement": ["LegAbsorb"],
         "Submovement": ["LegFlexion", "LegCrunch"],
         "Antemovement": [],
         "Postmovement": []
       },
       "LegTangentAbsorb": {
-        "MovementNamespace": "Absorb",
+        "MovementNamespace": "Absorb\\LegAbsorb\\LegTangentAbsorb",
         "MovementRank": {
           "": ""
         },
@@ -415,7 +415,7 @@
           "Speed": {},
           "Rhythm": {}
         },
-        "Supermovement": [],
+        "Supermovement": ["LegAbsorb"],
         "Submovement": [],
         "Antemovement": [],
         "Postmovement": []
@@ -431,7 +431,7 @@
     }
   },
   "Accurate": {
-    "MovementNamespace": "",
+    "MovementNamespace": "MovementProperty\\Accurate",
     "MovementRank": {
       "": ""
     },
@@ -442,7 +442,7 @@
     "Postmovement": []
   },
   "Aggressive": {
-    "MovementNamespace": "",
+    "MovementNamespace": "MovmentProperty\\Aggressive",
     "MovementRank": {
       "": ""
     },
