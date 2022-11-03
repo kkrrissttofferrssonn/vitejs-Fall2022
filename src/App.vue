@@ -1,6 +1,6 @@
 <script setup>
 import { ref, reactive } from 'vue';
-import { shuffle as _shuffle } from 'lodash-es';
+
 import TreeItem from './TreeItem.vue';
 import HelloWorld from './components/HelloWorld.vue';
 import PolyGraph from './PolyGraph.vue';
